@@ -4044,7 +4044,8 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
-      "glow_berries": "2025-04-02 17:11:20 +0000"
+      "glow_berries": "2025-04-02 17:11:20 +0000",
+      "wheat": "2025-04-02 23:01:58 +0000"
     },
     "done": false
   },
@@ -5233,6 +5234,30 @@
   "create:recipes/building_blocks/cut_tuff_wall_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-04-02 18:20:38 +0000"
+    },
+    "done": true
+  },
+  "projectvibrantjourneys:recipes/misc/brown_dye_from_light_brown_bark_mushroom": {
+    "criteria": {
+      "has_light_brown_bark_mushroom": "2025-04-02 23:04:06 +0000"
+    },
+    "done": true
+  },
+  "projectvibrantjourneys:recipes/misc/brown_dye_from_bark_mushroom": {
+    "criteria": {
+      "has_bark_mushroom": "2025-04-02 23:03:09 +0000"
+    },
+    "done": true
+  },
+  "projectvibrantjourneys:recipes/misc/orange_dye_from_orange_bark_mushroom": {
+    "criteria": {
+      "has_orange_bark_mushroom": "2025-04-02 23:03:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-04-02 23:01:58 +0000"
     },
     "done": true
   },
