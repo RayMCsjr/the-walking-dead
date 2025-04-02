@@ -12116,3 +12116,271 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [02Apr2025 02:14:12.453] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [02Apr2025 02:14:12.469] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [02Apr2025 02:14:31.793] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1743560071793
+[02Apr2025 02:15:17.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: edinson123pro has made the advancement [Monster Hunter]
+[02Apr2025 02:19:12.445] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Apr2025 02:19:12.461] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Apr2025 02:20:14.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: edinson123pro died
+[02Apr2025 02:20:16.372] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1743560416311
+[02Apr2025 02:22:23.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: slayer_np has made the advancement [Stone Age]
+[02Apr2025 02:22:26.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: edinson123pro died
+[02Apr2025 02:22:27.576] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1743560547576
+[02Apr2025 02:22:40.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: slayer_np was slain by edinson123pro
+[02Apr2025 02:22:42.307] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1743560562298
+[02Apr2025 02:23:43.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: edinson123pro died
+[02Apr2025 02:23:44.993] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1743560624993
+[02Apr2025 02:24:12.448] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Apr2025 02:24:12.467] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Apr2025 02:24:20.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: edinson123pro has made the advancement [Stone Age]
+[02Apr2025 02:24:31.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: slayer_np has made the advancement [Getting an Upgrade]
+[02Apr2025 02:24:34.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: edinson123pro has made the advancement [Getting an Upgrade]
+[02Apr2025 02:25:18.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: slayer_np has made the advancement [Sweet Dreams]
+[02Apr2025 02:25:27.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: edinson123pro has made the advancement [Sweet Dreams]
+[02Apr2025 02:28:53.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: slayer_np was slain by Zombie
+[02Apr2025 02:28:55.885] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1743560935885
+[02Apr2025 02:29:12.452] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Apr2025 02:29:12.472] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Apr2025 02:29:26.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: slayer_np was slain by Zombie
+[02Apr2025 02:29:27.891] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1743560967890
+[02Apr2025 02:29:48.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: edinson123pro was slain by Zombie
+[02Apr2025 02:29:50.729] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1743560990729
+[02Apr2025 02:29:59.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: slayer_np was slain by edinson123pro
+[02Apr2025 02:30:01.592] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1743561001592
+[02Apr2025 02:31:59.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: edinson123pro has made the advancement [Hunt and Gather]
+[02Apr2025 02:32:18.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: slayer_np died
+[02Apr2025 02:32:20.107] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1743561140104
+[02Apr2025 02:34:12.494] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Apr2025 02:34:12.507] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Apr2025 02:37:04.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: edinson123pro was slain by slayer_np
+[02Apr2025 02:37:05.729] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1743561425729
+[02Apr2025 02:37:23.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: slayer_np was slain by edinson123pro
+[02Apr2025 02:37:25.089] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1743561445089
+[02Apr2025 02:39:12.452] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Apr2025 02:39:12.468] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Apr2025 02:39:42.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made slayer_np a server operator
+[02Apr2025 02:40:08.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: slayer_np was slain by Assasin Black Ops
+[02Apr2025 02:40:09.957] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1743561609955
+[02Apr2025 02:41:02.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: edinson123pro was shot by Skeleton
+[02Apr2025 02:41:04.120] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1743561664120
+[02Apr2025 02:41:06.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Applied effect Saturation to slayer_np]
+[02Apr2025 02:41:13.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Applied effect Saturation to slayer_np]
+[02Apr2025 02:41:26.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Applied effect Regeneration to slayer_np]
+[02Apr2025 02:41:28.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Applied effect Regeneration to slayer_np]
+[02Apr2025 02:41:59.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: edinson123pro was slain by Walker
+[02Apr2025 02:42:00.592] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1743561720591
+[02Apr2025 02:42:13.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Creative Mode]
+[02Apr2025 02:42:26.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Survival Mode]
+[02Apr2025 02:42:32.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Creative Mode]
+[02Apr2025 02:42:50.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Survival Mode]
+[02Apr2025 02:42:56.677] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: slayer_np moved wrongly!
+[02Apr2025 02:42:58.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Creative Mode]
+[02Apr2025 02:43:00.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Survival Mode]
+[02Apr2025 02:43:02.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Creative Mode]
+[02Apr2025 02:43:27.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Survival Mode]
+[02Apr2025 02:43:29.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: edinson123pro was slain by Night Hunter
+[02Apr2025 02:43:31.194] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1743561811194
+[02Apr2025 02:43:34.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Creative Mode]
+[02Apr2025 02:44:06.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: edinson123pro was slain by slayer_np
+[02Apr2025 02:44:08.379] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1743561848379
+[02Apr2025 02:44:12.442] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Apr2025 02:44:12.457] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Apr2025 02:44:47.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Survival Mode]
+[02Apr2025 02:45:12.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: slayer_np was slain by edinson123pro
+[02Apr2025 02:45:15.333] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1743561915332
+[02Apr2025 02:45:18.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Teleported slayer_np to edinson123pro]
+[02Apr2025 02:45:25.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Creative Mode]
+[02Apr2025 02:45:29.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Spectator Mode]
+[02Apr2025 02:45:44.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Survival Mode]
+[02Apr2025 02:45:57.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Applied effect Regeneration to edinson123pro]
+[02Apr2025 02:46:04.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Applied effect Regeneration to edinson123pro]
+[02Apr2025 02:46:14.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Applied effect Regeneration to 2 targets]
+[02Apr2025 02:46:16.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Applied effect Regeneration to 2 targets]
+[02Apr2025 02:46:17.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Applied effect Regeneration to 2 targets]
+[02Apr2025 02:46:22.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Applied effect Saturation to slayer_np]
+[02Apr2025 02:47:48.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Creative Mode]
+[02Apr2025 02:48:32.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Survival Mode]
+[02Apr2025 02:49:03.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Creative Mode]
+[02Apr2025 02:49:12.440] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Apr2025 02:49:12.456] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Apr2025 02:49:22.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Survival Mode]
+[02Apr2025 02:50:02.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Creative Mode]
+[02Apr2025 02:50:23.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Survival Mode]
+[02Apr2025 02:50:50.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Adventure Mode]
+[02Apr2025 02:50:52.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Survival Mode]
+[02Apr2025 02:50:53.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Spectator Mode]
+[02Apr2025 02:50:59.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Creative Mode]
+[02Apr2025 02:51:02.743] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 492099660 to 17
+[02Apr2025 02:51:04.861] [Server thread/DEBUG] [pointblank/]: 64861 handling client fire request
+[02Apr2025 02:51:04.861] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 492099660 to 16
+[02Apr2025 02:51:04.863] [Server thread/DEBUG] [pointblank/]: 64863 - obtained hit result in 0ms
+[02Apr2025 02:51:04.863] [Server thread/DEBUG] [pointblank/]: 64863 obtained hit results
+[02Apr2025 02:51:04.863] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@679597b1
+[02Apr2025 02:51:04.864] [Server thread/DEBUG] [pointblank/]: ServerPlayer['slayer_np'/2018, l='ServerLevel[world]', x=-53.25, y=63.75, z=423.59] sends hit scan notification to ServerPlayer['edinson123pro'/1037, l='ServerLevel[world]', x=-124.70, y=71.00, z=450.13]
+[02Apr2025 02:51:04.865] [Server thread/DEBUG] [pointblank/]: ServerPlayer['slayer_np'/2018, l='ServerLevel[world]', x=-53.25, y=63.75, z=423.59] sends hit scan notification to ServerPlayer['slayer_np'/2018, l='ServerLevel[world]', x=-53.25, y=63.75, z=423.59]
+[02Apr2025 02:51:09.858] [Server thread/DEBUG] [pointblank/]: 69858 handling client fire request
+[02Apr2025 02:51:09.859] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 492099660 to 15
+[02Apr2025 02:51:09.859] [Server thread/DEBUG] [pointblank/]: 69859 - obtained hit result in 0ms
+[02Apr2025 02:51:09.859] [Server thread/DEBUG] [pointblank/]: 69859 obtained hit results
+[02Apr2025 02:51:09.859] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@4a9b4239
+[02Apr2025 02:51:09.859] [Server thread/DEBUG] [pointblank/]: ServerPlayer['slayer_np'/2018, l='ServerLevel[world]', x=-76.23, y=68.62, z=383.45] sends hit scan notification to ServerPlayer['edinson123pro'/1037, l='ServerLevel[world]', x=-124.70, y=71.00, z=450.13]
+[02Apr2025 02:51:09.859] [Server thread/DEBUG] [pointblank/]: ServerPlayer['slayer_np'/2018, l='ServerLevel[world]', x=-76.23, y=68.62, z=383.45] sends hit scan notification to ServerPlayer['slayer_np'/2018, l='ServerLevel[world]', x=-76.23, y=68.62, z=383.45]
+[02Apr2025 02:51:18.106] [Server thread/DEBUG] [pointblank/]: 78106 handling client fire request
+[02Apr2025 02:51:18.106] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 492099660 to 14
+[02Apr2025 02:51:18.107] [Server thread/DEBUG] [pointblank/]: 78107 - obtained hit result in 0ms
+[02Apr2025 02:51:18.107] [Server thread/DEBUG] [pointblank/]: 78107 obtained hit results
+[02Apr2025 02:51:18.107] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@474e59d5
+[02Apr2025 02:51:18.123] [Server thread/DEBUG] [pointblank/]: Creating state e7af43de-46b1-49db-9ef4-4b81260fa22d
+[02Apr2025 02:51:18.134] [Server thread/DEBUG] [pointblank/]: ServerPlayer['slayer_np'/2018, l='ServerLevel[world]', x=-104.90, y=68.00, z=425.61] sends hit scan notification to ServerPlayer['edinson123pro'/1037, l='ServerLevel[world]', x=-124.70, y=71.00, z=450.13]
+[02Apr2025 02:51:18.134] [Server thread/DEBUG] [pointblank/]: ServerPlayer['slayer_np'/2018, l='ServerLevel[world]', x=-104.90, y=68.00, z=425.61] sends hit scan notification to ServerPlayer['slayer_np'/2018, l='ServerLevel[world]', x=-104.90, y=68.00, z=425.61]
+[02Apr2025 02:51:18.510] [Server thread/DEBUG] [pointblank/]: 78510 handling client fire request
+[02Apr2025 02:51:18.510] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 492099660 to 13
+[02Apr2025 02:51:18.510] [Server thread/DEBUG] [pointblank/]: 78510 - obtained hit result in 0ms
+[02Apr2025 02:51:18.510] [Server thread/DEBUG] [pointblank/]: 78510 obtained hit results
+[02Apr2025 02:51:18.510] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@5e9b4337
+[02Apr2025 02:51:18.511] [Server thread/DEBUG] [pointblank/]: ServerPlayer['slayer_np'/2018, l='ServerLevel[world]', x=-104.85, y=68.00, z=425.37] sends hit scan notification to ServerPlayer['edinson123pro'/1037, l='ServerLevel[world]', x=-124.70, y=71.00, z=450.13]
+[02Apr2025 02:51:18.511] [Server thread/DEBUG] [pointblank/]: ServerPlayer['slayer_np'/2018, l='ServerLevel[world]', x=-104.85, y=68.00, z=425.37] sends hit scan notification to ServerPlayer['slayer_np'/2018, l='ServerLevel[world]', x=-104.85, y=68.00, z=425.37]
+[02Apr2025 02:51:30.256] [Server thread/DEBUG] [pointblank/]: 90256 handling client fire request
+[02Apr2025 02:51:30.256] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 643742330 to 12
+[02Apr2025 02:51:30.256] [Server thread/DEBUG] [pointblank/]: 90256 - obtained hit result in 0ms
+[02Apr2025 02:51:30.256] [Server thread/DEBUG] [pointblank/]: 90256 obtained hit results
+[02Apr2025 02:51:30.256] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@77b90ff8
+[02Apr2025 02:51:30.257] [Server thread/DEBUG] [pointblank/]: ServerPlayer['slayer_np'/2018, l='ServerLevel[world]', x=-110.70, y=69.00, z=453.54] sends hit scan notification to ServerPlayer['edinson123pro'/1037, l='ServerLevel[world]', x=-124.70, y=71.00, z=450.13]
+[02Apr2025 02:51:30.258] [Server thread/DEBUG] [pointblank/]: ServerPlayer['slayer_np'/2018, l='ServerLevel[world]', x=-110.70, y=69.00, z=453.54] sends hit scan notification to ServerPlayer['slayer_np'/2018, l='ServerLevel[world]', x=-110.70, y=69.00, z=453.54]
+[02Apr2025 02:51:49.706] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1662581024 to 17
+[02Apr2025 02:51:51.853] [Server thread/DEBUG] [pointblank/]: 11853 handling client fire request
+[02Apr2025 02:51:51.853] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1662581024 to 16
+[02Apr2025 02:51:51.853] [Server thread/DEBUG] [pointblank/]: 11853 - obtained hit result in 0ms
+[02Apr2025 02:51:51.853] [Server thread/DEBUG] [pointblank/]: 11853 obtained hit results
+[02Apr2025 02:51:51.853] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@6595aa28
+[02Apr2025 02:51:51.854] [Server thread/DEBUG] [pointblank/]: Creating state e7af43de-46b1-49db-9ef4-4b81260fa22d
+[02Apr2025 02:51:51.855] [Server thread/DEBUG] [pointblank/]: ServerPlayer['slayer_np'/2018, l='ServerLevel[world]', x=-129.36, y=69.00, z=446.98] sends hit scan notification to ServerPlayer['edinson123pro'/1037, l='ServerLevel[world]', x=-124.70, y=71.00, z=450.13]
+[02Apr2025 02:51:51.855] [Server thread/DEBUG] [pointblank/]: ServerPlayer['slayer_np'/2018, l='ServerLevel[world]', x=-129.36, y=69.00, z=446.98] sends hit scan notification to ServerPlayer['slayer_np'/2018, l='ServerLevel[world]', x=-129.36, y=69.00, z=446.98]
+[02Apr2025 02:51:59.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Spectator Mode]
+[02Apr2025 02:52:04.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Creative Mode]
+[02Apr2025 02:52:06.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Survival Mode]
+[02Apr2025 02:52:44.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Creative Mode]
+[02Apr2025 02:52:56.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Survival Mode]
+[02Apr2025 02:53:38.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Creative Mode]
+[02Apr2025 02:53:44.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Survival Mode]
+[02Apr2025 02:54:12.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Creative Mode]
+[02Apr2025 02:54:12.441] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Apr2025 02:54:12.458] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Apr2025 02:54:45.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Survival Mode]
+[02Apr2025 02:55:14.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Creative Mode]
+[02Apr2025 02:55:17.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Survival Mode]
+[02Apr2025 02:55:46.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Spectator Mode]
+[02Apr2025 02:55:49.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Survival Mode]
+[02Apr2025 02:56:01.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Creative Mode]
+[02Apr2025 02:56:41.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Survival Mode]
+[02Apr2025 02:56:43.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Spectator Mode]
+[02Apr2025 02:56:44.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: edinson123pro has made the advancement [Acquire Hardware]
+[02Apr2025 02:56:52.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Survival Mode]
+[02Apr2025 02:56:55.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Spectator Mode]
+[02Apr2025 02:56:57.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: edinson123pro has made the advancement [Isn't It Iron Pick]
+[02Apr2025 02:57:01.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Survival Mode]
+[02Apr2025 02:57:46.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Creative Mode]
+[02Apr2025 02:57:56.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Survival Mode]
+[02Apr2025 02:59:12.446] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Apr2025 02:59:12.462] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Apr2025 03:00:02.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Creative Mode]
+[02Apr2025 03:00:04.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Spectator Mode]
+[02Apr2025 03:00:08.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Creative Mode]
+[02Apr2025 03:00:16.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Spectator Mode]
+[02Apr2025 03:00:20.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Creative Mode]
+[02Apr2025 03:00:23.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Survival Mode]
+[02Apr2025 03:01:18.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Creative Mode]
+[02Apr2025 03:02:01.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Survival Mode]
+[02Apr2025 03:03:37.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Creative Mode]
+[02Apr2025 03:04:12.443] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Apr2025 03:04:12.459] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Apr2025 03:04:25.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Survival Mode]
+[02Apr2025 03:04:40.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Spectator Mode]
+[02Apr2025 03:04:42.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Teleported slayer_np to edinson123pro]
+[02Apr2025 03:05:09.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Survival Mode]
+[02Apr2025 03:05:11.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Spectator Mode]
+[02Apr2025 03:05:12.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Survival Mode]
+[02Apr2025 03:05:24.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Applied effect Regeneration to edinson123pro]
+[02Apr2025 03:05:29.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Applied effect Regeneration to 2 targets]
+[02Apr2025 03:05:31.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Applied effect Regeneration to 2 targets]
+[02Apr2025 03:05:34.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Applied effect Regeneration to 2 targets]
+[02Apr2025 03:05:39.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Creative Mode]
+[02Apr2025 03:05:51.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: slayer_np has made the advancement [Acquire Hardware]
+[02Apr2025 03:07:26.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Survival Mode]
+[02Apr2025 03:09:12.442] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Apr2025 03:09:12.458] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Apr2025 03:09:25.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Spectator Mode]
+[02Apr2025 03:09:28.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Teleported slayer_np to edinson123pro]
+[02Apr2025 03:09:30.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Applied effect Regeneration to 2 targets]
+[02Apr2025 03:09:37.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Applied effect Regeneration to 2 targets]
+[02Apr2025 03:09:55.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Applied effect Regeneration to 2 targets]
+[02Apr2025 03:10:04.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Adventure Mode]
+[02Apr2025 03:10:09.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Creative Mode]
+[02Apr2025 03:10:16.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Survival Mode]
+[02Apr2025 03:11:32.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Applied effect Regeneration to 2 targets]
+[02Apr2025 03:11:33.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Applied effect Regeneration to 2 targets]
+[02Apr2025 03:13:04.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Creative Mode]
+[02Apr2025 03:13:27.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Survival Mode]
+[02Apr2025 03:14:12.444] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Apr2025 03:14:12.460] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Apr2025 03:15:14.926] [Server thread/DEBUG] [mixin/]: Mixing tacz.ModernKineticGunScriptAPIMixin from sona.mixins.json into com.tacz.guns.item.ModernKineticGunScriptAPI
+[02Apr2025 03:15:45.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Spectator Mode]
+[02Apr2025 03:15:47.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Teleported slayer_np to edinson123pro]
+[02Apr2025 03:15:59.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Survival Mode]
+[02Apr2025 03:16:39.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Applied effect Regeneration to 2 targets]
+[02Apr2025 03:17:01.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: edinson123pro joined zombies.
+[02Apr2025 03:17:03.659] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1743563823650
+[02Apr2025 03:17:05.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Spectator Mode]
+[02Apr2025 03:17:08.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Survival Mode]
+[02Apr2025 03:19:12.441] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Apr2025 03:19:12.456] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Apr2025 03:19:40.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Applied effect Regeneration to 2 targets]
+[02Apr2025 03:19:42.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Applied effect Regeneration to 2 targets]
+[02Apr2025 03:21:24.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Spectator Mode]
+[02Apr2025 03:21:32.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Summoned new Creeper]
+[02Apr2025 03:21:33.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Summoned new Creeper]
+[02Apr2025 03:21:34.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Summoned new Creeper]
+[02Apr2025 03:21:39.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Summoned new Creeper]
+[02Apr2025 03:21:47.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Survival Mode]
+[02Apr2025 03:22:28.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: slayer_np has made the advancement [Isn't It Iron Pick]
+[02Apr2025 03:22:50.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Spectator Mode]
+[02Apr2025 03:22:54.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Creative Mode]
+[02Apr2025 03:23:05.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Spectator Mode]
+[02Apr2025 03:23:09.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Creative Mode]
+[02Apr2025 03:23:10.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Survival Mode]
+[02Apr2025 03:24:12.442] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Apr2025 03:24:12.457] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Apr2025 03:25:58.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Applied effect Regeneration to 2 targets]
+[02Apr2025 03:26:02.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Applied effect Regeneration to 2 targets]
+[02Apr2025 03:26:15.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Applied effect Regeneration to 2 targets]
+[02Apr2025 03:27:02.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Spectator Mode]
+[02Apr2025 03:27:06.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Creative Mode]
+[02Apr2025 03:27:23.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Survival Mode]
+[02Apr2025 03:27:26.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Creative Mode]
+[02Apr2025 03:27:38.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Survival Mode]
+[02Apr2025 03:27:45.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Creative Mode]
+[02Apr2025 03:28:15.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Survival Mode]
+[02Apr2025 03:29:00.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Applied effect Regeneration to 2 targets]
+[02Apr2025 03:29:01.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Applied effect Regeneration to 2 targets]
+[02Apr2025 03:29:04.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Applied effect Regeneration to 2 targets]
+[02Apr2025 03:29:04.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Applied effect Regeneration to 2 targets]
+[02Apr2025 03:29:05.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Applied effect Regeneration to 2 targets]
+[02Apr2025 03:29:12.441] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Apr2025 03:29:12.456] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Apr2025 03:29:33.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Applied effect Regeneration to 2 targets]
+[02Apr2025 03:29:33.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Applied effect Regeneration to 2 targets]
+[02Apr2025 03:29:34.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Applied effect Regeneration to 2 targets]
+[02Apr2025 03:29:37.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Applied effect Regeneration to 2 targets]
+[02Apr2025 03:29:38.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Applied effect Regeneration to 2 targets]
+[02Apr2025 03:29:38.555] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: edinson123pro lost connection: Disconnected
+[02Apr2025 03:29:38.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: edinson123pro left the game
+[02Apr2025 03:30:01.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Creative Mode]
+[02Apr2025 03:30:03.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Spectator Mode]
+[02Apr2025 03:30:12.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Creative Mode]
+[02Apr2025 03:34:01.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Survival Mode]
+[02Apr2025 03:34:12.437] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Apr2025 03:34:12.452] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Apr2025 03:35:24.553] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: slayer_np lost connection: Disconnected
+[02Apr2025 03:35:24.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: slayer_np left the game
+[02Apr2025 03:39:12.416] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Apr2025 03:39:12.431] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Apr2025 03:44:12.416] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Apr2025 03:44:12.431] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

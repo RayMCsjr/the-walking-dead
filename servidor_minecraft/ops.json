@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "uuid": "ea6b305e-d84b-34c1-ad11-a614f57f701a",
+    "name": "slayer_np",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
