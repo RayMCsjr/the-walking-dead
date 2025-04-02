@@ -8374,3 +8374,13 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [02Apr2025 23:11:19.018] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [02Apr2025 23:16:18.999] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [02Apr2025 23:16:19.014] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Apr2025 23:20:25.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Expected whitespace to end one argument, but found trailing data
+[02Apr2025 23:20:25.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ...nson123pro/msg edinson123pro te estamos observando<--[HERE]
+[02Apr2025 23:21:18.998] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Apr2025 23:21:19.013] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Apr2025 23:23:15.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to edinson123pro: crees que no te veo...
+[02Apr2025 23:23:30.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to edinson123pro: crees que te puedes esconder bajo un techo...
+[02Apr2025 23:24:01.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to edinson123pro: l'osservaçion
+[02Apr2025 23:25:29.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to edinson123pro: what are you thinking?
+[02Apr2025 23:26:18.996] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Apr2025 23:26:19.012] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
