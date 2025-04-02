@@ -2975,3 +2975,19 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [02Apr2025 02:01:55.907] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: edinson123pro[/100.76.109.16:49602] logged in with entity id 1037 at (-58.5, 74.0, 137.5)
 [02Apr2025 02:01:55.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: edinson123pro joined the game
 [02Apr2025 02:01:57.820] [Server thread/INFO] [ping-wheel/]: Channel update: edinson123pro -> default
+[02Apr2025 02:04:42.922] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: slayer_np[/100.121.90.55:62209] logged in with entity id 2018 at (-59.6277589949525, 77.0, 149.08468026592777)
+[02Apr2025 02:04:42.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: slayer_np joined the game
+[02Apr2025 02:04:44.037] [Server thread/INFO] [ping-wheel/]: Channel update: slayer_np -> default
+[02Apr2025 02:05:36.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <slayer_np> donde estas
+[02Apr2025 02:08:23.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: slayer_np was slain by Runner
+[02Apr2025 02:08:24.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: edinson123pro died
+[02Apr2025 02:09:03.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: slayer_np has made the advancement [Monster Hunter]
+[02Apr2025 02:10:34.583] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=120, y=61, z=390} but found not block entity block Block{minecraft:water}[level=5] at location
+[02Apr2025 02:10:34.583] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=5] but failed at location BlockPos{x=120, y=61, z=390}
+[02Apr2025 02:10:49.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: edinson123pro died
+[02Apr2025 02:13:47.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <slayer_np> espera
+[02Apr2025 02:13:50.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <slayer_np> cerre google xd
+[02Apr2025 02:13:54.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: slayer_np drowned
+[02Apr2025 02:14:06.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: edinson123pro was slain by Soldier
+[02Apr2025 02:14:12.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: edinson123pro has made the advancement [First Day]
+[02Apr2025 02:14:12.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: slayer_np has made the advancement [First Day]
