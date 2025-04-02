@@ -1592,3 +1592,72 @@ Caused by: java.lang.NullPointerException: Cannot invoke "com.simibubi.create.co
 [02Apr2025 17:49:49.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Creative Mode]
 [02Apr2025 17:50:02.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Survival Mode]
 [02Apr2025 17:50:12.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Creative Mode]
+[02Apr2025 17:50:30.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Survival Mode]
+[02Apr2025 17:51:19.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Applied effect Haste to slayer_np]
+[02Apr2025 17:51:51.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Creative Mode]
+[02Apr2025 17:52:14.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Survival Mode]
+[02Apr2025 17:52:22.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Creative Mode]
+[02Apr2025 17:52:32.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Survival Mode]
+[02Apr2025 17:52:42.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: slayer_np has made the advancement [Hunt and Gather]
+[02Apr2025 17:52:51.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Creative Mode]
+[02Apr2025 17:53:02.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Survival Mode]
+[02Apr2025 17:54:31.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Creative Mode]
+[02Apr2025 17:54:58.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Survival Mode]
+[02Apr2025 17:55:46.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Applied effect Haste to slayer_np]
+[02Apr2025 17:56:08.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Applied effect Haste to slayer_np]
+[02Apr2025 17:57:45.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Spectator Mode]
+[02Apr2025 17:58:03.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Adventure Mode]
+[02Apr2025 17:58:22.113] [Server thread/INFO] [ping-wheel/]: Channel update: slayer_np -> default
+[02Apr2025 17:58:34.558] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DarkJunior[/100.71.138.83:61549] logged in with entity id 30509 at (-151.54117540275124, 21.0, 389.3341042210623)
+[02Apr2025 17:58:34.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkJunior joined the game
+[02Apr2025 17:58:34.956] [Server thread/INFO] [ping-wheel/]: Channel update: DarkJunior -> default
+[02Apr2025 17:58:39.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Applied effect Haste to slayer_np]
+[02Apr2025 17:58:45.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Survival Mode]
+[02Apr2025 17:59:15.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Creative Mode]
+[02Apr2025 17:59:18.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Survival Mode]
+[02Apr2025 17:59:28.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Creative Mode]
+[02Apr2025 17:59:32.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Survival Mode]
+[02Apr2025 18:01:17.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Creative Mode]
+[02Apr2025 18:01:26.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Survival Mode]
+[02Apr2025 18:02:40.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Applied effect Regeneration to 3 targets]
+[02Apr2025 18:02:48.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Creative Mode]
+[02Apr2025 18:02:52.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Survival Mode]
+[02Apr2025 18:04:42.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkJunior lost too much blood.
+[02Apr2025 18:04:48.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Teleported edinson123pro to slayer_np]
+[02Apr2025 18:05:16.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Teleported DarkJunior to slayer_np]
+[02Apr2025 18:05:46.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Applied effect Regeneration to 3 targets]
+[02Apr2025 18:08:22.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Creative Mode]
+[02Apr2025 18:08:28.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Survival Mode]
+[02Apr2025 18:08:42.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: edinson123pro lost too much blood.
+[02Apr2025 18:09:11.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Teleported edinson123pro to slayer_np]
+[02Apr2025 18:09:41.797] [Server thread/INFO] [ping-wheel/]: Channel update: slayer_np -> default
+[02Apr2025 18:10:31.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Creative Mode]
+[02Apr2025 18:10:32.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Teleported slayer_np to edinson123pro]
+[02Apr2025 18:10:35.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Survival Mode]
+[02Apr2025 18:11:00.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Spectator Mode]
+[02Apr2025 18:11:09.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Teleported edinson123pro to DarkJunior]
+[02Apr2025 18:11:15.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Survival Mode]
+[02Apr2025 18:12:40.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Applied effect Regeneration to 3 targets]
+[02Apr2025 18:13:04.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <slayer_np> e
+[02Apr2025 18:13:15.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Applied effect Regeneration to 3 targets]
+[02Apr2025 18:13:35.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Applied effect Regeneration to 3 targets]
+[02Apr2025 18:14:19.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Adventure Mode]
+[02Apr2025 18:14:25.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Creative Mode]
+[02Apr2025 18:15:02.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Adventure Mode]
+[02Apr2025 18:15:11.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Survival Mode]
+[02Apr2025 18:15:20.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Applied effect Regeneration to 3 targets]
+[02Apr2025 18:15:33.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Applied effect Regeneration to 3 targets]
+[02Apr2025 18:15:58.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Applied effect Regeneration to 3 targets]
+[02Apr2025 18:16:02.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: edinson123pro has made the advancement [Not Today, Thank You]
+[02Apr2025 18:16:05.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Applied effect Regeneration to 3 targets]
+[02Apr2025 18:16:14.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: slayer_np was shot by Skeleton
+[02Apr2025 18:16:23.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Creative Mode]
+[02Apr2025 18:16:25.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Survival Mode]
+[02Apr2025 18:16:37.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Creative Mode]
+[02Apr2025 18:17:08.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Survival Mode]
+[02Apr2025 18:17:33.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Applied effect Regeneration to 3 targets]
+[02Apr2025 18:18:30.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: slayer_np was doomed to fall by Skeleton
+[02Apr2025 18:19:56.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Applied effect Regeneration to 3 targets]
+[02Apr2025 18:20:05.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: edinson123pro lost too much blood while trying to escape slayer_np.
+[02Apr2025 18:20:13.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: edinson123pro lost too much blood while trying to escape slayer_np.
+[02Apr2025 18:20:20.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: edinson123pro was shot by slayer_np

@@ -1987,6 +1987,7 @@
       "minecraft:spider": "2025-04-02 03:16:48 +0000",
       "minecraft:creeper": "2025-04-02 03:04:16 +0000",
       "minecraft:husk": "2025-04-02 17:21:35 +0000",
+      "minecraft:enderman": "2025-04-02 17:53:59 +0000",
       "minecraft:zombie": "2025-04-02 02:29:38 +0000"
     },
     "done": false
@@ -4295,6 +4296,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_pickaxe": "2025-04-02 18:08:19 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/placard": {
     "criteria": {
       "has_item": "2025-04-02 17:39:13 +0000"
@@ -4334,6 +4341,12 @@
   "minecraft:adventure/voluntary_exile": {
     "criteria": {
       "voluntary_exile": "2025-04-02 16:12:55 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/gearbox": {
+    "criteria": {
+      "has_item": "2025-04-02 17:52:00 +0000"
     },
     "done": true
   },
@@ -4478,6 +4491,12 @@
   "refurbished_furniture:recipes/misc/constructing/spruce_mail_box": {
     "criteria": {
       "has_spruce_planks": "2025-04-02 17:38:02 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/zinc_ingot_from_compacting": {
+    "criteria": {
+      "has_item": "2025-04-02 17:52:12 +0000"
     },
     "done": true
   },
@@ -4715,6 +4734,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/craft_knife": {
+    "criteria": {
+      "flint_knife": "2025-04-02 17:52:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-04-02 17:27:34 +0000"
@@ -4796,6 +4821,12 @@
   "create:recipes/misc/crafting/logistics/desk_bell": {
     "criteria": {
       "has_item": "2025-04-02 17:33:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_pickaxe": "2025-04-02 18:08:19 +0000"
     },
     "done": true
   },
@@ -5216,6 +5247,12 @@
   "minecraft:recipes/decorations/moss_carpet": {
     "criteria": {
       "has_moss_block": "2025-04-02 16:45:14 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/vertical_gearbox": {
+    "criteria": {
+      "has_item": "2025-04-02 17:52:00 +0000"
     },
     "done": true
   },
