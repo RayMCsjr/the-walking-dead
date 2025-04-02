@@ -1190,3 +1190,29 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [02Apr2025 15:57:52.607] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-69, y=76, z=134}
 [02Apr2025 15:57:56.955] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-78, y=77, z=135}
 [02Apr2025 15:57:57.658] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-78, y=77, z=135}
+[02Apr2025 15:59:46.958] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DarkJunior lost connection: Disconnected
+[02Apr2025 15:59:46.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkJunior left the game
+[02Apr2025 16:02:52.774] [Worker-Main-12/WARN] [com.ferreusveritas.dynamictrees.tree.species.Species/]: Rooty Dirt block NOT FOUND for soil minecraft:seagrass
+[02Apr2025 16:06:59.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Creative Mode]
+[02Apr2025 16:07:12.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Survival Mode]
+[02Apr2025 16:07:17.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Creative Mode]
+[02Apr2025 16:07:20.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Survival Mode]
+[02Apr2025 16:09:35.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Creative Mode]
+[02Apr2025 16:09:41.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Survival Mode]
+[02Apr2025 16:11:08.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Creative Mode]
+[02Apr2025 16:11:09.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Survival Mode]
+[02Apr2025 16:11:16.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Creative Mode]
+[02Apr2025 16:11:25.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Survival Mode]
+[02Apr2025 16:11:54.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Creative Mode]
+[02Apr2025 16:12:55.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: slayer_np has made the advancement [Voluntary Exile]
+[02Apr2025 16:13:26.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Survival Mode]
+[02Apr2025 16:14:48.703] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DarkJunior[/100.71.138.83:61045] logged in with entity id 8489 at (-129.1959618968036, 85.0, 141.23572071454697)
+[02Apr2025 16:14:48.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkJunior joined the game
+[02Apr2025 16:14:48.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkJunior has made the advancement [First Day]
+[02Apr2025 16:14:49.191] [Server thread/INFO] [ping-wheel/]: Channel update: DarkJunior -> default
+[02Apr2025 16:15:10.020] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: edinson123pro[/100.76.109.16:57729] logged in with entity id 8625 at (-124.44061969513878, 63.0, 449.72165804243207)
+[02Apr2025 16:15:10.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: edinson123pro joined the game
+[02Apr2025 16:15:13.501] [Server thread/INFO] [ping-wheel/]: Channel update: edinson123pro -> default
+[02Apr2025 16:16:02.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkJunior has made the advancement [Monster Hunter]
+[02Apr2025 16:16:30.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkJunior has made the advancement [Stone Age]
+[02Apr2025 16:16:30.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkJunior has made the advancement [Acquire Hardware]

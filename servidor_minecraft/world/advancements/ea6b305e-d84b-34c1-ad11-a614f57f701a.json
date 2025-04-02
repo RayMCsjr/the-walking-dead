@@ -31,6 +31,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:windswept_hills": "2025-04-02 16:06:52 +0000",
       "minecraft:beach": "2025-04-02 02:12:09 +0000",
       "minecraft:dark_forest": "2025-04-02 02:09:50 +0000",
       "minecraft:swamp": "2025-04-02 02:07:04 +0000",
@@ -386,6 +387,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-04-02 02:27:18 +0000",
+      "cooked_mutton": "2025-04-02 16:07:30 +0000",
       "porkchop": "2025-04-02 02:19:27 +0000",
       "mutton": "2025-04-02 02:19:19 +0000",
       "cookie": "2025-04-02 03:25:56 +0000",
@@ -1980,6 +1982,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-04-02 16:12:53 +0000",
       "minecraft:skeleton": "2025-04-02 02:40:25 +0000",
       "minecraft:spider": "2025-04-02 03:16:48 +0000",
       "minecraft:creeper": "2025-04-02 03:04:16 +0000",
@@ -4102,6 +4105,90 @@
   "minecraft:recipes/building_blocks/amethyst_block": {
     "criteria": {
       "has_amethyst_shard": "2025-04-02 03:31:12 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/rose_quartz_lamp": {
+    "criteria": {
+      "has_item": "2025-04-02 15:58:28 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/package_filter": {
+    "criteria": {
+      "has_item": "2025-04-02 15:58:28 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/chain_from_zinc": {
+    "criteria": {
+      "has_item": "2025-04-02 15:58:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-04-02 16:12:55 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/roasted_mutton_chops": {
+    "criteria": {
+      "has_mutton": "2025-04-02 16:07:11 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/copycat_panel_from_ingots_zinc_stonecutting": {
+    "criteria": {
+      "has_ingots_zinc": "2025-04-02 15:58:28 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/shepherds_pie_block": {
+    "criteria": {
+      "has_cooked_mutton": "2025-04-02 16:07:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2025-04-02 16:14:44 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/zinc_block_from_compacting": {
+    "criteria": {
+      "has_item": "2025-04-02 15:58:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2025-04-02 16:14:44 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/copycat_step_from_ingots_zinc_stonecutting": {
+    "criteria": {
+      "has_ingots_zinc": "2025-04-02 15:58:28 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/andesite_alloy_from_zinc": {
+    "criteria": {
+      "has_item": "2025-04-02 15:58:28 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/mutton_wrap": {
+    "criteria": {
+      "has_mutton": "2025-04-02 16:07:11 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/zinc_nugget_from_decompacting": {
+    "criteria": {
+      "has_item": "2025-04-02 15:58:28 +0000"
     },
     "done": true
   },
