@@ -9387,3 +9387,181 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [02Apr2025 17:17:36.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Survival Mode]
 [02Apr2025 17:19:19.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Creative Mode]
 [02Apr2025 17:19:23.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Survival Mode]
+[02Apr2025 17:20:17.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Creative Mode]
+[02Apr2025 17:20:18.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Survival Mode]
+[02Apr2025 17:20:19.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Spectator Mode]
+[02Apr2025 17:20:24.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Summoned new Explosive Infected]
+[02Apr2025 17:20:25.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Summoned new Explosive Infected]
+[02Apr2025 17:20:29.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Summoned new Explosive Infected]
+[02Apr2025 17:20:29.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Summoned new Explosive Infected]
+[02Apr2025 17:20:30.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Summoned new Explosive Infected]
+[02Apr2025 17:20:31.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Summoned new Explosive Infected]
+[02Apr2025 17:20:31.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Summoned new Explosive Infected]
+[02Apr2025 17:20:32.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Summoned new Explosive Infected]
+[02Apr2025 17:20:32.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Summoned new Explosive Infected]
+[02Apr2025 17:20:36.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Summoned new Chainsaw]
+[02Apr2025 17:20:37.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Summoned new Chainsaw]
+[02Apr2025 17:20:38.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Summoned new Chainsaw]
+[02Apr2025 17:20:41.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Survival Mode]
+[02Apr2025 17:21:21.899] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Apr2025 17:21:21.917] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Apr2025 17:21:32.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: edinson123pro lost too much blood.
+[02Apr2025 17:21:34.609] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1743614494609
+[02Apr2025 17:21:41.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Teleported edinson123pro to slayer_np]
+[02Apr2025 17:22:06.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Creative Mode]
+[02Apr2025 17:22:09.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: slayer_np has made the advancement [Keep Going]
+[02Apr2025 17:22:11.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Survival Mode]
+[02Apr2025 17:22:52.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: slayer_np lost too much blood.
+[02Apr2025 17:22:54.795] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1743614574788
+[02Apr2025 17:23:43.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Creative Mode]
+[02Apr2025 17:23:52.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Spectator Mode]
+[02Apr2025 17:23:59.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Summoned new entity.apocalypsenow.baseballball_projectile]
+[02Apr2025 17:24:03.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Summoned new entity.apocalypsenow.baseballball_projectile]
+[02Apr2025 17:24:06.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Summoned new entity.apocalypsenow.cocktelmolotov_3_projectile]
+[02Apr2025 17:24:11.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Summoned new Dropbox]
+[02Apr2025 17:24:21.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Summoned new entity.apocalypsenow.coktelmolotov_2_projectile]
+[02Apr2025 17:24:31.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Teleported slayer_np to edinson123pro]
+[02Apr2025 17:24:34.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Teleported slayer_np to edinson123pro]
+[02Apr2025 17:24:40.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Summoned new entity.apocalypsenow.coktelmolotov_2_projectile]
+[02Apr2025 17:24:44.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Summoned new entity.apocalypsenow.coktelmolotov_2_projectile]
+[02Apr2025 17:24:46.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Summoned new entity.apocalypsenow.coktelmolotov_2_projectile]
+[02Apr2025 17:24:51.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Summoned new entity.apocalypsenow.coktelmolotov_2_projectile]
+[02Apr2025 17:24:55.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Summoned new entity.apocalypsenow.coktelmolotov_2_projectile]
+[02Apr2025 17:25:09.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Summoned new entity.apocalypsenow.coktelmolotov_2_projectile]
+[02Apr2025 17:25:17.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Summoned new entity.apocalypsenow.cocktelmolotov_3_projectile]
+[02Apr2025 17:25:20.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Summoned new entity.apocalypsenow.cocktelmolotov_3_projectile]
+[02Apr2025 17:25:29.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Summoned new Military]
+[02Apr2025 17:25:39.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Teleported slayer_np to edinson123pro]
+[02Apr2025 17:25:43.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Teleported slayer_np to edinson123pro]
+[02Apr2025 17:25:47.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Summoned new Military]
+[02Apr2025 17:25:57.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Summoned new Dropbox]
+[02Apr2025 17:26:11.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Survival Mode]
+[02Apr2025 17:26:21.878] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Apr2025 17:26:21.894] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Apr2025 17:27:28.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Creative Mode]
+[02Apr2025 17:27:35.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Survival Mode]
+[02Apr2025 17:28:29.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Spectator Mode]
+[02Apr2025 17:28:34.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Summoned new Military]
+[02Apr2025 17:28:39.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Summoned new entity.apocalypsenow.baseballball_projectile]
+[02Apr2025 17:28:45.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Summoned new Runner]
+[02Apr2025 17:28:49.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Summoned new Runner]
+[02Apr2025 17:28:52.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Summoned new Runner]
+[02Apr2025 17:29:02.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Summoned new Survivor]
+[02Apr2025 17:29:08.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Summoned new Survivor]
+[02Apr2025 17:29:15.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Summoned new Survivor]
+[02Apr2025 17:29:16.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Summoned new Survivor]
+[02Apr2025 17:29:19.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Summoned new Survivor]
+[02Apr2025 17:29:21.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Summoned new Runner]
+[02Apr2025 17:29:22.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Summoned new Runner]
+[02Apr2025 17:29:22.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Summoned new Runner]
+[02Apr2025 17:29:28.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Summoned new Runner]
+[02Apr2025 17:29:29.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Summoned new Runner]
+[02Apr2025 17:29:30.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Summoned new Runner]
+[02Apr2025 17:29:54.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Summoned new Walker]
+[02Apr2025 17:30:05.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Summoned new Survivor]
+[02Apr2025 17:30:09.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Summoned new entity.apocalypsenow.climbingropewithhook_projectile]
+[02Apr2025 17:30:17.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Summoned new Horde (5)]
+[02Apr2025 17:30:33.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Applied effect Invisibility to slayer_np]
+[02Apr2025 17:30:35.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Survival Mode]
+[02Apr2025 17:30:37.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: edinson123pro has made the advancement [Bark Off]
+[02Apr2025 17:30:41.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Creative Mode]
+[02Apr2025 17:30:42.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: edinson123pro has made the advancement [The Andesite Age]
+[02Apr2025 17:30:45.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Summoned new Horde (5)]
+[02Apr2025 17:31:04.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Survival Mode]
+[02Apr2025 17:31:07.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Spectator Mode]
+[02Apr2025 17:31:15.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Survival Mode]
+[02Apr2025 17:31:21.892] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Apr2025 17:31:21.908] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Apr2025 17:31:58.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Removed every effect from slayer_np]
+[02Apr2025 17:32:03.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Creative Mode]
+[02Apr2025 17:32:08.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: slayer_np has made the advancement [Hot Stuff]
+[02Apr2025 17:32:09.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Survival Mode]
+[02Apr2025 17:33:41.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Spectator Mode]
+[02Apr2025 17:33:45.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Survival Mode]
+[02Apr2025 17:34:49.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Spectator Mode]
+[02Apr2025 17:34:54.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Summoned new Horde (5)]
+[02Apr2025 17:35:04.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Summoned new entity.apocalypsenow.baseballball_projectile]
+[02Apr2025 17:35:13.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Summoned new Super Glue]
+[02Apr2025 17:35:17.005] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/topology/core_id
+[02Apr2025 17:35:17.005] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/topology/core_id
+[02Apr2025 17:35:17.005] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/topology/physical_package_id
+[02Apr2025 17:35:17.005] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/topology/physical_package_id
+[02Apr2025 17:35:17.006] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/cpu_capacity
+[02Apr2025 17:35:17.006] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/topology/core_id
+[02Apr2025 17:35:17.006] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/topology/core_id
+[02Apr2025 17:35:17.006] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/topology/physical_package_id
+[02Apr2025 17:35:17.006] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/topology/physical_package_id
+[02Apr2025 17:35:17.006] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/cpu_capacity
+[02Apr2025 17:35:17.006] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/topology/core_id
+[02Apr2025 17:35:17.006] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/topology/core_id
+[02Apr2025 17:35:17.006] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/topology/physical_package_id
+[02Apr2025 17:35:17.006] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/topology/physical_package_id
+[02Apr2025 17:35:17.006] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/cpu_capacity
+[02Apr2025 17:35:17.007] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/topology/core_id
+[02Apr2025 17:35:17.007] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/topology/core_id
+[02Apr2025 17:35:17.007] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/topology/physical_package_id
+[02Apr2025 17:35:17.007] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/topology/physical_package_id
+[02Apr2025 17:35:17.007] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/cpu_capacity
+[02Apr2025 17:35:17.007] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /proc/cpuinfo
+[02Apr2025 17:35:17.015] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /proc/self/auxv
+[02Apr2025 17:35:17.016] [Server thread/DEBUG] [oshi.util.FileUtil/]: No oshi.architecture.properties file found from ClassLoader cpw.mods.modlauncher.TransformingClassLoader@4997552e
+[02Apr2025 17:35:17.016] [Server thread/DEBUG] [oshi.util.FileUtil/]: No oshi.architecture.properties file found from ClassLoader jdk.internal.loader.ClassLoaders$AppClassLoader@76ed5528
+[02Apr2025 17:35:17.025] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /proc/meminfo
+[02Apr2025 17:35:17.025] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /proc/meminfo
+[02Apr2025 17:35:17.028] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Exception loading entity: 
+net.minecraft.ReportedException: Loading entity NBT
+	at net.minecraft.world.entity.Entity.m_20258_(Entity.java:1765) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
+	at net.minecraft.world.entity.EntityType.m_185988_(EntityType.java:532) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
+	at net.minecraft.Util.m_137521_(Util.java:419) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
+	at net.minecraft.world.entity.EntityType.m_20642_(EntityType.java:529) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
+	at net.minecraft.world.entity.EntityType.m_20669_(EntityType.java:607) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
+	at net.minecraft.world.entity.EntityType.m_20645_(EntityType.java:563) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
+	at net.minecraft.server.commands.SummonCommand.m_269066_(SummonCommand.java:67) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
+	at net.minecraft.server.commands.SummonCommand.m_245828_(SummonCommand.java:86) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
+	at net.minecraft.server.commands.SummonCommand.m_244863_(SummonCommand.java:44) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
+	at com.mojang.brigadier.CommandDispatcher.execute(CommandDispatcher.java:264) ~[brigadier-1.1.8.jar%2376!/:?]
+	at net.minecraft.commands.Commands.m_242674_(Commands.java:257) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_246958_(ServerGamePacketListenerImpl.java:1244) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_244885_(ServerGamePacketListenerImpl.java:1221) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18693_(BlockableEventLoop.java:67) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:139) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:733) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+Caused by: java.lang.NullPointerException: Cannot invoke "com.simibubi.create.content.contraptions.Contraption.readNBT(net.minecraft.world.level.Level, net.minecraft.nbt.CompoundTag, boolean)" because "contraption" is null
+	at com.simibubi.create.content.contraptions.Contraption.fromNBT(Contraption.java:219) ~[create-1.20.1-6.0.4.jar%23167!/:6.0.4]
+	at com.simibubi.create.content.contraptions.AbstractContraptionEntity.readAdditional(AbstractContraptionEntity.java:652) ~[create-1.20.1-6.0.4.jar%23167!/:6.0.4]
+	at com.simibubi.create.content.contraptions.OrientedContraptionEntity.readAdditional(OrientedContraptionEntity.java:157) ~[create-1.20.1-6.0.4.jar%23167!/:6.0.4]
+	at com.simibubi.create.content.trains.entity.CarriageContraptionEntity.readAdditional(CarriageContraptionEntity.java:474) ~[create-1.20.1-6.0.4.jar%23167!/:6.0.4]
+	at com.simibubi.create.content.contraptions.AbstractContraptionEntity.m_7378_(AbstractContraptionEntity.java:644) ~[create-1.20.1-6.0.4.jar%23167!/:6.0.4]
+	at net.minecraft.world.entity.Entity.m_20258_(Entity.java:1750) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
+	... 27 more
+[02Apr2025 17:35:27.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Summoned new Mercenary]
+[02Apr2025 17:35:33.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Summoned new Fallen Survivor]
+[02Apr2025 17:35:41.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Summoned new Fallen Survivor]
+[02Apr2025 17:35:43.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Summoned new Fallen Survivor]
+[02Apr2025 17:35:45.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Summoned new Mercenary]
+[02Apr2025 17:35:56.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Summoned new Infected Soldier]
+[02Apr2025 17:36:09.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Teleported slayer_np to edinson123pro]
+[02Apr2025 17:36:13.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Teleported slayer_np to edinson123pro]
+[02Apr2025 17:36:19.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Summoned new Infected Soldier]
+[02Apr2025 17:36:21.889] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Apr2025 17:36:21.904] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Apr2025 17:36:27.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Summoned new Infected Soldier]
+[02Apr2025 17:36:31.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Creative Mode]
+[02Apr2025 17:36:35.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Applied effect Invisibility to slayer_np]
+[02Apr2025 17:37:07.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Survival Mode]
+[02Apr2025 17:37:11.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Removed every effect from slayer_np]
+[02Apr2025 17:37:34.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Applied effect Regeneration to 2 targets]
+[02Apr2025 17:38:26.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Creative Mode]
+[02Apr2025 17:39:17.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Survival Mode]
