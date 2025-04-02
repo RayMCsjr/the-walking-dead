@@ -388,6 +388,7 @@
     "criteria": {
       "cooked_porkchop": "2025-04-02 02:27:18 +0000",
       "cooked_mutton": "2025-04-02 16:07:30 +0000",
+      "cooked_beef": "2025-04-02 18:19:48 +0000",
       "porkchop": "2025-04-02 02:19:27 +0000",
       "mutton": "2025-04-02 02:19:19 +0000",
       "cookie": "2025-04-02 03:25:56 +0000",
@@ -4152,6 +4153,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2025-04-02 18:21:00 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/elevator_pulley": {
     "criteria": {
       "has_item": "2025-04-02 17:39:13 +0000"
@@ -4614,6 +4621,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/misc/block_pocket_manager": {
+    "criteria": {
+      "has_redstone_block": "2025-04-02 18:20:07 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_mossy_cobblestone_from_vanilla_moss": {
     "criteria": {
       "has_moss": "2025-04-02 16:45:14 +0000"
@@ -4647,6 +4660,12 @@
   "create:recipes/building_blocks/copycat_panel_from_ingots_zinc_stonecutting": {
     "criteria": {
       "has_ingots_zinc": "2025-04-02 15:58:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-04-02 18:21:02 +0000"
     },
     "done": true
   },
@@ -4959,6 +4978,12 @@
   "farmersdelight:recipes/food/barbecue_stick": {
     "criteria": {
       "has_tomato": "2025-04-02 17:15:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2025-04-02 18:20:07 +0000"
     },
     "done": true
   },
@@ -5325,6 +5350,12 @@
   "refurbished_furniture:recipes/misc/constructing/spruce_drawer": {
     "criteria": {
       "has_spruce_planks": "2025-04-02 17:38:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-04-02 18:21:02 +0000"
     },
     "done": true
   },

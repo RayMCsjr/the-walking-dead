@@ -1,105 +1,130 @@
-[02Apr2025 15:49:32.061] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
-[02Apr2025 15:49:32.065] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.14 by Ubuntu; OS Linux arch amd64 version 6.8.0-1021-azure
-[02Apr2025 15:49:39.499] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
-[02Apr2025 15:49:39.632] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/the-walking-dead/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
-[02Apr2025 15:49:40.431] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/the-walking-dead/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
-[02Apr2025 15:49:40.433] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/the-walking-dead/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[02Apr2025 15:49:40.436] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/the-walking-dead/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[02Apr2025 15:49:40.438] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/the-walking-dead/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[02Apr2025 15:49:41.316] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
-[02Apr2025 15:49:41.318] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 13 dependencies adding them to mods collection
-[02Apr2025 15:49:44.429] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[02Apr2025 15:49:44.621] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
-[02Apr2025 15:49:44.891] [main/WARN] [mixin/]: Reference map 'coroutil.refmap.json' for coroutil.mixins.json could not be read. If this is a development environment you can ignore this message
-[02Apr2025 15:49:46.212] [main/WARN] [mixin/]: Error loading class: umpaz/brewinandchewin/common/block/entity/KegBlockEntity (java.lang.ClassNotFoundException: umpaz.brewinandchewin.common.block.entity.KegBlockEntity)
-[02Apr2025 15:49:46.212] [main/WARN] [mixin/]: @Mixin target umpaz.brewinandchewin.common.block.entity.KegBlockEntity was not found thirst.mixin.json:accessors.brewinandchewin.KegBlockEntityAccessor
-[02Apr2025 15:49:46.214] [main/WARN] [mixin/]: Error loading class: umpaz/brewinandchewin/common/block/entity/KegBlockEntity (java.lang.ClassNotFoundException: umpaz.brewinandchewin.common.block.entity.KegBlockEntity)
-[02Apr2025 15:49:46.214] [main/WARN] [mixin/]: @Mixin target umpaz.brewinandchewin.common.block.entity.KegBlockEntity was not found thirst.mixin.json:brewinandchewin.MixinKegBlockEntity
-[02Apr2025 15:49:46.216] [main/WARN] [mixin/]: Error loading class: umpaz/brewinandchewin/common/crafting/KegFermentingRecipe (java.lang.ClassNotFoundException: umpaz.brewinandchewin.common.crafting.KegFermentingRecipe)
-[02Apr2025 15:49:46.216] [main/WARN] [mixin/]: @Mixin target umpaz.brewinandchewin.common.crafting.KegFermentingRecipe was not found thirst.mixin.json:brewinandchewin.MixinKegFermentingRecipe
-[02Apr2025 15:49:46.233] [main/WARN] [mixin/]: Error loading class: umpaz/farmersrespite/common/block/entity/KettleBlockEntity (java.lang.ClassNotFoundException: umpaz.farmersrespite.common.block.entity.KettleBlockEntity)
-[02Apr2025 15:49:46.233] [main/WARN] [mixin/]: @Mixin target umpaz.farmersrespite.common.block.entity.KettleBlockEntity was not found thirst.mixin.json:farmersrespite.MixinKettleBlockEntity
-[02Apr2025 15:49:46.237] [main/WARN] [mixin/]: Error loading class: snownee/jade/api/view/FluidView (java.lang.ClassNotFoundException: snownee.jade.api.view.FluidView)
-[02Apr2025 15:49:46.237] [main/WARN] [mixin/]: @Mixin target snownee.jade.api.view.FluidView was not found thirst.mixin.json:jade.MixinFluidView
-[02Apr2025 15:49:46.239] [main/WARN] [mixin/]: Error loading class: toughasnails/item/EmptyCanteenItem (java.lang.ClassNotFoundException: toughasnails.item.EmptyCanteenItem)
-[02Apr2025 15:49:46.240] [main/WARN] [mixin/]: @Mixin target toughasnails.item.EmptyCanteenItem was not found thirst.mixin.json:toughasnails.MixinEmptyCanteenItem
-[02Apr2025 15:49:46.242] [main/WARN] [mixin/]: Error loading class: toughasnails/config/ThirstConfig (java.lang.ClassNotFoundException: toughasnails.config.ThirstConfig)
-[02Apr2025 15:49:46.242] [main/WARN] [mixin/]: @Mixin target toughasnails.config.ThirstConfig was not found thirst.mixin.json:toughasnails.MixinServerConfig
-[02Apr2025 15:49:46.245] [main/WARN] [mixin/]: Error loading class: toughasnails/thirst/ThirstHandler (java.lang.ClassNotFoundException: toughasnails.thirst.ThirstHandler)
-[02Apr2025 15:49:46.245] [main/WARN] [mixin/]: @Mixin target toughasnails.thirst.ThirstHandler was not found thirst.mixin.json:toughasnails.MixinThirstHandler
-[02Apr2025 15:49:46.249] [main/WARN] [mixin/]: Error loading class: toughasnails/thirst/ThirstHelperImpl (java.lang.ClassNotFoundException: toughasnails.thirst.ThirstHelperImpl)
-[02Apr2025 15:49:46.250] [main/WARN] [mixin/]: @Mixin target toughasnails.thirst.ThirstHelperImpl was not found thirst.mixin.json:toughasnails.MixinThirstHelperImpl
-[02Apr2025 15:49:46.253] [main/WARN] [mixin/]: Error loading class: toughasnails/client/handler/TooltipHandler (java.lang.ClassNotFoundException: toughasnails.client.handler.TooltipHandler)
-[02Apr2025 15:49:46.253] [main/WARN] [mixin/]: @Mixin target toughasnails.client.handler.TooltipHandler was not found thirst.mixin.json:toughasnails.MixinTooltipHandler
-[02Apr2025 15:49:46.256] [main/WARN] [mixin/]: Error loading class: vazkii/botania/forge/xplat/ForgeXplatImpl (java.lang.ClassNotFoundException: vazkii.botania.forge.xplat.ForgeXplatImpl)
-[02Apr2025 15:49:46.256] [main/WARN] [mixin/]: @Mixin target vazkii.botania.forge.xplat.ForgeXplatImpl was not found thirst.mixin.json:botania.MixinForgeXplatImpl
-[02Apr2025 15:49:46.334] [main/WARN] [mixin/]: Error loading class: dev/latvian/mods/kubejs/recipe/RecipesEventJS (java.lang.ClassNotFoundException: dev.latvian.mods.kubejs.recipe.RecipesEventJS)
-[02Apr2025 15:49:46.334] [main/WARN] [mixin/]: @Mixin target dev.latvian.mods.kubejs.recipe.RecipesEventJS was not found sliceanddice.mixins.json:RecipeEventJSMixin
-[02Apr2025 15:49:46.807] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[02Apr2025 15:49:52.281] [main/WARN] [mixin/]: Mixin sona.mixins.json:ItemStackMixin has multiple constructors, (Ljava/lang/Class;)V was selected
+[02Apr2025 22:39:08.738] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[02Apr2025 22:39:08.744] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.14 by Ubuntu; OS Linux arch amd64 version 6.8.0-1021-azure
+[02Apr2025 22:39:10.767] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[02Apr2025 22:39:10.841] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/the-walking-dead/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[02Apr2025 22:39:11.272] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/the-walking-dead/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[02Apr2025 22:39:11.276] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/the-walking-dead/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[02Apr2025 22:39:11.277] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/the-walking-dead/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[02Apr2025 22:39:11.281] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/the-walking-dead/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[02Apr2025 22:39:11.836] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
+[02Apr2025 22:39:11.837] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 13 dependencies adding them to mods collection
+[02Apr2025 22:39:14.889] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[02Apr2025 22:39:15.063] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[02Apr2025 22:39:15.328] [main/WARN] [mixin/]: Reference map 'coroutil.refmap.json' for coroutil.mixins.json could not be read. If this is a development environment you can ignore this message
+[02Apr2025 22:39:16.464] [main/WARN] [mixin/]: Error loading class: umpaz/brewinandchewin/common/block/entity/KegBlockEntity (java.lang.ClassNotFoundException: umpaz.brewinandchewin.common.block.entity.KegBlockEntity)
+[02Apr2025 22:39:16.465] [main/WARN] [mixin/]: @Mixin target umpaz.brewinandchewin.common.block.entity.KegBlockEntity was not found thirst.mixin.json:accessors.brewinandchewin.KegBlockEntityAccessor
+[02Apr2025 22:39:16.467] [main/WARN] [mixin/]: Error loading class: umpaz/brewinandchewin/common/block/entity/KegBlockEntity (java.lang.ClassNotFoundException: umpaz.brewinandchewin.common.block.entity.KegBlockEntity)
+[02Apr2025 22:39:16.467] [main/WARN] [mixin/]: @Mixin target umpaz.brewinandchewin.common.block.entity.KegBlockEntity was not found thirst.mixin.json:brewinandchewin.MixinKegBlockEntity
+[02Apr2025 22:39:16.469] [main/WARN] [mixin/]: Error loading class: umpaz/brewinandchewin/common/crafting/KegFermentingRecipe (java.lang.ClassNotFoundException: umpaz.brewinandchewin.common.crafting.KegFermentingRecipe)
+[02Apr2025 22:39:16.469] [main/WARN] [mixin/]: @Mixin target umpaz.brewinandchewin.common.crafting.KegFermentingRecipe was not found thirst.mixin.json:brewinandchewin.MixinKegFermentingRecipe
+[02Apr2025 22:39:16.481] [main/WARN] [mixin/]: Error loading class: umpaz/farmersrespite/common/block/entity/KettleBlockEntity (java.lang.ClassNotFoundException: umpaz.farmersrespite.common.block.entity.KettleBlockEntity)
+[02Apr2025 22:39:16.481] [main/WARN] [mixin/]: @Mixin target umpaz.farmersrespite.common.block.entity.KettleBlockEntity was not found thirst.mixin.json:farmersrespite.MixinKettleBlockEntity
+[02Apr2025 22:39:16.484] [main/WARN] [mixin/]: Error loading class: snownee/jade/api/view/FluidView (java.lang.ClassNotFoundException: snownee.jade.api.view.FluidView)
+[02Apr2025 22:39:16.484] [main/WARN] [mixin/]: @Mixin target snownee.jade.api.view.FluidView was not found thirst.mixin.json:jade.MixinFluidView
+[02Apr2025 22:39:16.486] [main/WARN] [mixin/]: Error loading class: toughasnails/item/EmptyCanteenItem (java.lang.ClassNotFoundException: toughasnails.item.EmptyCanteenItem)
+[02Apr2025 22:39:16.486] [main/WARN] [mixin/]: @Mixin target toughasnails.item.EmptyCanteenItem was not found thirst.mixin.json:toughasnails.MixinEmptyCanteenItem
+[02Apr2025 22:39:16.489] [main/WARN] [mixin/]: Error loading class: toughasnails/config/ThirstConfig (java.lang.ClassNotFoundException: toughasnails.config.ThirstConfig)
+[02Apr2025 22:39:16.489] [main/WARN] [mixin/]: @Mixin target toughasnails.config.ThirstConfig was not found thirst.mixin.json:toughasnails.MixinServerConfig
+[02Apr2025 22:39:16.492] [main/WARN] [mixin/]: Error loading class: toughasnails/thirst/ThirstHandler (java.lang.ClassNotFoundException: toughasnails.thirst.ThirstHandler)
+[02Apr2025 22:39:16.492] [main/WARN] [mixin/]: @Mixin target toughasnails.thirst.ThirstHandler was not found thirst.mixin.json:toughasnails.MixinThirstHandler
+[02Apr2025 22:39:16.494] [main/WARN] [mixin/]: Error loading class: toughasnails/thirst/ThirstHelperImpl (java.lang.ClassNotFoundException: toughasnails.thirst.ThirstHelperImpl)
+[02Apr2025 22:39:16.494] [main/WARN] [mixin/]: @Mixin target toughasnails.thirst.ThirstHelperImpl was not found thirst.mixin.json:toughasnails.MixinThirstHelperImpl
+[02Apr2025 22:39:16.498] [main/WARN] [mixin/]: Error loading class: toughasnails/client/handler/TooltipHandler (java.lang.ClassNotFoundException: toughasnails.client.handler.TooltipHandler)
+[02Apr2025 22:39:16.498] [main/WARN] [mixin/]: @Mixin target toughasnails.client.handler.TooltipHandler was not found thirst.mixin.json:toughasnails.MixinTooltipHandler
+[02Apr2025 22:39:16.501] [main/WARN] [mixin/]: Error loading class: vazkii/botania/forge/xplat/ForgeXplatImpl (java.lang.ClassNotFoundException: vazkii.botania.forge.xplat.ForgeXplatImpl)
+[02Apr2025 22:39:16.501] [main/WARN] [mixin/]: @Mixin target vazkii.botania.forge.xplat.ForgeXplatImpl was not found thirst.mixin.json:botania.MixinForgeXplatImpl
+[02Apr2025 22:39:16.542] [main/WARN] [mixin/]: Error loading class: dev/latvian/mods/kubejs/recipe/RecipesEventJS (java.lang.ClassNotFoundException: dev.latvian.mods.kubejs.recipe.RecipesEventJS)
+[02Apr2025 22:39:16.542] [main/WARN] [mixin/]: @Mixin target dev.latvian.mods.kubejs.recipe.RecipesEventJS was not found sliceanddice.mixins.json:RecipeEventJSMixin
+[02Apr2025 22:39:16.961] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[02Apr2025 22:39:21.982] [main/WARN] [mixin/]: Mixin sona.mixins.json:ItemStackMixin has multiple constructors, (Ljava/lang/Class;)V was selected
 
-[02Apr2025 15:49:55.922] [main/WARN] [mixin/]: @Inject(@At("INVOKE_ASSIGN")) Shift.BY=2 on refurbished_furniture.common.mixins.json:LevelChunkMixin::handler$zkc000$refurbishedFurniture$AfterRemoveBlockEntity exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
-[02Apr2025 15:49:57.634] [modloading-worker-0/INFO] [ping-wheel/]: [Ping-Wheel] Init
-[02Apr2025 15:49:57.662] [modloading-worker-0/INFO] [ping-wheel/]: [Ping-Wheel] Loaded ServerConfig(defaultChannelMode=auto, playerTrackingEnabled=true, msToRegenerate=1000, rateLimit=5)
-[02Apr2025 15:49:58.211] [modloading-worker-0/INFO] [coroutil/]: forge loader environment detected
-[02Apr2025 15:49:58.537] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
-[02Apr2025 15:49:58.538] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
-[02Apr2025 15:49:58.972] [modloading-worker-0/INFO] [com.refinedmods.refinedstorage.apiimpl.API/]: Found 0 RS API injection points
-[02Apr2025 15:50:00.228] [modloading-worker-0/INFO] [com.simibubi.create.Create/]: Create 6.0.4 initializing! Commit hash: 254bb816aee1c056c74b2ad4beb88222a499da78
-[02Apr2025 15:50:00.399] [modloading-worker-0/INFO] [thedarkcolour.kotlinforforge.test.KotlinForForge/]: Kotlin For Forge Enabled!
-[02Apr2025 15:50:01.494] [modloading-worker-0/INFO] [pointblank/]: Loading mod pointblank
-[02Apr2025 15:50:29.809] [main/INFO] [Moonlight/]: Initialized block sets in 16ms
-[02Apr2025 15:50:31.130] [modloading-worker-0/INFO] [com.muhammedesadcomert.protectmobsfromdaylight.forge.ProtectMobsFromDayLight/]: HELLO FROM COMMON SETUP
-[02Apr2025 15:50:31.131] [modloading-worker-0/INFO] [com.muhammedesadcomert.protectmobsfromdaylight.forge.ProtectMobsFromDayLight/]: DIRT BLOCK >> minecraft:dirt
-[02Apr2025 15:50:31.307] [modloading-worker-0/INFO] [mekanism.common.Mekanism/]: Version 10.4.15 initializing...
-[02Apr2025 15:50:31.365] [modloading-worker-0/INFO] [lostcities/]: Creating standard profiles into 'config/lostcities/profiles'
-[02Apr2025 15:50:31.423] [modloading-worker-0/INFO] [lostcities/]: Reading existing profiles from 'config/lostcities/profiles'
-[02Apr2025 15:50:31.430] [modloading-worker-0/INFO] [net.antrolgaming.ags_daycounter.AgsDayCounterMod/]: [Day Counter] Loading config file...
-[02Apr2025 15:50:31.432] [modloading-worker-0/INFO] [net.antrolgaming.ags_daycounter.AgsDayCounterMod/]: [Day Counter] Config file successfuly loaded!
-[02Apr2025 15:50:31.465] [modloading-worker-0/INFO] [mekanism.common.Mekanism/]: Fake player readout: UUID = 46e82cd0-d480-3d48-800a-77431ede078e, name = [Mekanism]
-[02Apr2025 15:50:31.468] [modloading-worker-0/INFO] [mekanism.common.Mekanism/]: Mod loaded.
-[02Apr2025 15:50:31.536] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[02Apr2025 15:50:31.585] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:shoot_cool_down for minecraft:living_entity
-[02Apr2025 15:50:31.585] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:melee_cool_down for minecraft:living_entity
-[02Apr2025 15:50:31.586] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:reload_state for minecraft:living_entity
-[02Apr2025 15:50:31.586] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:aiming_progress for minecraft:living_entity
-[02Apr2025 15:50:31.586] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:draw_cool_down for minecraft:living_entity
-[02Apr2025 15:50:31.586] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:is_aiming for minecraft:living_entity
-[02Apr2025 15:50:31.586] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:sprint_time for minecraft:living_entity
-[02Apr2025 15:50:31.586] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:is_bolting for minecraft:living_entity
-[02Apr2025 15:50:31.649] [main/INFO] [Moonlight/]: Initialized color sets in 55ms
-[02Apr2025 15:50:31.653] [main/INFO] [terrablender/]: Registered region minecraft:overworld to index 0 for type OVERWORLD
-[02Apr2025 15:50:31.654] [main/INFO] [terrablender/]: Registered region minecraft:nether to index 0 for type NETHER
-[02Apr2025 15:50:31.654] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_primary to index 1 for type OVERWORLD
-[02Apr2025 15:50:31.654] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_secondary to index 2 for type OVERWORLD
-[02Apr2025 15:50:31.654] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_rare to index 3 for type OVERWORLD
-[02Apr2025 15:50:31.654] [main/INFO] [terrablender/]: Registered region biomesoplenty:nether_common to index 1 for type NETHER
-[02Apr2025 15:50:31.655] [main/INFO] [terrablender/]: Registered region biomesoplenty:nether_rare to index 2 for type NETHER
-[02Apr2025 15:50:31.875] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key refurbished_furniture:lock_yaw for refurbished_furniture:seat
-[02Apr2025 15:50:31.906] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
-[02Apr2025 15:50:31.906] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [moonlight] Starting version check at https://raw.githubusercontent.com/MehVahdJukaar/Moonlight/multi-loader/forge/update.json
-[02Apr2025 15:50:31.951] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [moonlight] Found status: BETA Current: 1.20-2.13.79 Target: null
-[02Apr2025 15:50:31.952] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [pipez] Starting version check at https://maxhenkel.de/update/pipez.json
-[02Apr2025 15:50:32.972] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [pipez] Found status: UP_TO_DATE Current: 1.20.1-1.2.5 Target: null
-[02Apr2025 15:50:32.973] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
-[02Apr2025 15:50:33.087] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Found status: OUTDATED Current: 1.9.9 Target: 1.9.12
-[02Apr2025 15:50:33.088] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [refurbished_furniture] Starting version check at https://mrcrayfish.com/api/mod_update/forge/refurbished_furniture
-[02Apr2025 15:50:33.457] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [refurbished_furniture] Found status: BETA Current: 1.0.12 Target: 1.0.12
-[02Apr2025 15:50:33.458] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Starting version check at https://mrcrayfish.com/modupdatejson?id=framework
-[02Apr2025 15:50:33.919] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Found status: BETA Current: 0.7.12 Target: 0.7.12
-[02Apr2025 15:50:33.920] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [dynamictrees] Starting version check at https://github.com/DynamicTreesTeam/DynamicTreesVersionInfo/blob/master/DynamicTrees.json?raw=true
-[02Apr2025 15:50:34.087] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [dynamictrees] Found status: BETA Current: 1.20.1-1.4.1 Target: null
-[02Apr2025 15:50:34.089] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sliceanddice] Starting version check at https://api.modrinth.com/updates/slice-and-dice/forge_updates.json
-[02Apr2025 15:50:34.236] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sliceanddice] Found status: UP_TO_DATE Current: 3.4.0 Target: null
-[02Apr2025 15:50:37.982] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[02Apr2025 15:50:42.532] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/the-walking-dead/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23219!/assets/.mcassetsroot' uses unexpected schema
-[02Apr2025 15:50:42.532] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/the-walking-dead/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23219!/data/.mcassetsroot' uses unexpected schema
-[02Apr2025 15:50:42.658] [main/INFO] [com.simibubi.create.Create/]: Created 413 recipes which will be injected into the game
-[02Apr2025 15:50:42.666] [main/INFO] [com.simibubi.create.Create/]: Created 22 tags which will be injected into the game
-[02Apr2025 15:50:46.461] [main/INFO] [com.ordana.immersive_weathering.ImmersiveWeathering/]: Generated runtime SERVER_DATA for pack Immersive Weathering Generated Pack (immersive_weathering) in: 13 ms
-[02Apr2025 15:50:48.652] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag create_factory:sweet_berries_jam as it is missing following references: create_factory:sweet_berries_jam_flowing (from create_factory-0.4b-1.20.1.jar)
-[02Apr2025 15:50:48.764] [Worker-Main-2/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag apocalypsenow:armor/cloth as it is missing following references: apocalypsenow:nurse_helmet (from apocalypsenow-3.0.5-forge-1.20.1.jar)
-[02Apr2025 15:50:49.497] [Worker-Main-2/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:thirst:chests/bastion_other_bc
+[02Apr2025 22:39:26.416] [main/WARN] [mixin/]: @Inject(@At("INVOKE_ASSIGN")) Shift.BY=2 on refurbished_furniture.common.mixins.json:LevelChunkMixin::handler$zkc000$refurbishedFurniture$AfterRemoveBlockEntity exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
+[02Apr2025 22:39:28.222] [modloading-worker-0/INFO] [ping-wheel/]: [Ping-Wheel] Init
+[02Apr2025 22:39:28.242] [modloading-worker-0/INFO] [ping-wheel/]: [Ping-Wheel] Loaded ServerConfig(defaultChannelMode=auto, playerTrackingEnabled=true, msToRegenerate=1000, rateLimit=5)
+[02Apr2025 22:39:28.637] [modloading-worker-0/INFO] [coroutil/]: forge loader environment detected
+[02Apr2025 22:39:28.936] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[02Apr2025 22:39:28.939] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[02Apr2025 22:39:29.521] [modloading-worker-0/INFO] [com.refinedmods.refinedstorage.apiimpl.API/]: Found 0 RS API injection points
+[02Apr2025 22:39:30.775] [modloading-worker-0/INFO] [com.simibubi.create.Create/]: Create 6.0.4 initializing! Commit hash: 254bb816aee1c056c74b2ad4beb88222a499da78
+[02Apr2025 22:39:30.965] [modloading-worker-0/INFO] [thedarkcolour.kotlinforforge.test.KotlinForForge/]: Kotlin For Forge Enabled!
+[02Apr2025 22:39:32.102] [modloading-worker-0/INFO] [pointblank/]: Loading mod pointblank
+[02Apr2025 22:40:02.525] [main/INFO] [Moonlight/]: Initialized block sets in 18ms
+[02Apr2025 22:40:04.181] [modloading-worker-0/INFO] [com.muhammedesadcomert.protectmobsfromdaylight.forge.ProtectMobsFromDayLight/]: HELLO FROM COMMON SETUP
+[02Apr2025 22:40:04.181] [modloading-worker-0/INFO] [com.muhammedesadcomert.protectmobsfromdaylight.forge.ProtectMobsFromDayLight/]: DIRT BLOCK >> minecraft:dirt
+[02Apr2025 22:40:04.332] [modloading-worker-0/INFO] [mekanism.common.Mekanism/]: Version 10.4.15 initializing...
+[02Apr2025 22:40:04.438] [modloading-worker-0/INFO] [lostcities/]: Creating standard profiles into 'config/lostcities/profiles'
+[02Apr2025 22:40:04.495] [modloading-worker-0/INFO] [lostcities/]: Reading existing profiles from 'config/lostcities/profiles'
+[02Apr2025 22:40:04.578] [modloading-worker-0/INFO] [net.antrolgaming.ags_daycounter.AgsDayCounterMod/]: [Day Counter] Loading config file...
+[02Apr2025 22:40:04.601] [modloading-worker-0/INFO] [net.antrolgaming.ags_daycounter.AgsDayCounterMod/]: [Day Counter] Config file successfuly loaded!
+[02Apr2025 22:40:04.666] [modloading-worker-0/INFO] [mekanism.common.Mekanism/]: Fake player readout: UUID = 46e82cd0-d480-3d48-800a-77431ede078e, name = [Mekanism]
+[02Apr2025 22:40:04.668] [modloading-worker-0/INFO] [mekanism.common.Mekanism/]: Mod loaded.
+[02Apr2025 22:40:04.758] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[02Apr2025 22:40:04.773] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:shoot_cool_down for minecraft:living_entity
+[02Apr2025 22:40:04.773] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:melee_cool_down for minecraft:living_entity
+[02Apr2025 22:40:04.773] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:reload_state for minecraft:living_entity
+[02Apr2025 22:40:04.774] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:aiming_progress for minecraft:living_entity
+[02Apr2025 22:40:04.774] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:draw_cool_down for minecraft:living_entity
+[02Apr2025 22:40:04.774] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:is_aiming for minecraft:living_entity
+[02Apr2025 22:40:04.774] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:sprint_time for minecraft:living_entity
+[02Apr2025 22:40:04.775] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:is_bolting for minecraft:living_entity
+[02Apr2025 22:40:04.854] [main/INFO] [Moonlight/]: Initialized color sets in 62ms
+[02Apr2025 22:40:04.860] [main/INFO] [terrablender/]: Registered region minecraft:overworld to index 0 for type OVERWORLD
+[02Apr2025 22:40:04.861] [main/INFO] [terrablender/]: Registered region minecraft:nether to index 0 for type NETHER
+[02Apr2025 22:40:04.861] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_primary to index 1 for type OVERWORLD
+[02Apr2025 22:40:04.861] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_secondary to index 2 for type OVERWORLD
+[02Apr2025 22:40:04.862] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_rare to index 3 for type OVERWORLD
+[02Apr2025 22:40:04.862] [main/INFO] [terrablender/]: Registered region biomesoplenty:nether_common to index 1 for type NETHER
+[02Apr2025 22:40:04.862] [main/INFO] [terrablender/]: Registered region biomesoplenty:nether_rare to index 2 for type NETHER
+[02Apr2025 22:40:05.191] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
+[02Apr2025 22:40:05.192] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [moonlight] Starting version check at https://raw.githubusercontent.com/MehVahdJukaar/Moonlight/multi-loader/forge/update.json
+[02Apr2025 22:40:05.197] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key refurbished_furniture:lock_yaw for refurbished_furniture:seat
+[02Apr2025 22:40:05.297] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [moonlight] Found status: BETA Current: 1.20-2.13.79 Target: null
+[02Apr2025 22:40:05.297] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [pipez] Starting version check at https://maxhenkel.de/update/pipez.json
+[02Apr2025 22:40:06.537] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [pipez] Found status: UP_TO_DATE Current: 1.20.1-1.2.5 Target: null
+[02Apr2025 22:40:06.540] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
+[02Apr2025 22:40:06.651] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Found status: OUTDATED Current: 1.9.9 Target: 1.9.12
+[02Apr2025 22:40:06.652] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [refurbished_furniture] Starting version check at https://mrcrayfish.com/api/mod_update/forge/refurbished_furniture
+[02Apr2025 22:40:07.030] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [refurbished_furniture] Found status: BETA Current: 1.0.12 Target: 1.0.12
+[02Apr2025 22:40:07.030] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Starting version check at https://mrcrayfish.com/modupdatejson?id=framework
+[02Apr2025 22:40:07.486] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Found status: BETA Current: 0.7.12 Target: 0.7.12
+[02Apr2025 22:40:07.486] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [dynamictrees] Starting version check at https://github.com/DynamicTreesTeam/DynamicTreesVersionInfo/blob/master/DynamicTrees.json?raw=true
+[02Apr2025 22:40:07.623] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [dynamictrees] Found status: BETA Current: 1.20.1-1.4.1 Target: null
+[02Apr2025 22:40:07.625] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sliceanddice] Starting version check at https://api.modrinth.com/updates/slice-and-dice/forge_updates.json
+[02Apr2025 22:40:07.756] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sliceanddice] Found status: UP_TO_DATE Current: 3.4.0 Target: null
+[02Apr2025 22:40:12.770] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[02Apr2025 22:40:17.989] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/the-walking-dead/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23219!/assets/.mcassetsroot' uses unexpected schema
+[02Apr2025 22:40:17.989] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/the-walking-dead/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23219!/data/.mcassetsroot' uses unexpected schema
+[02Apr2025 22:40:18.156] [main/INFO] [com.simibubi.create.Create/]: Created 413 recipes which will be injected into the game
+[02Apr2025 22:40:18.165] [main/INFO] [com.simibubi.create.Create/]: Created 22 tags which will be injected into the game
+[02Apr2025 22:40:24.368] [main/INFO] [com.ordana.immersive_weathering.ImmersiveWeathering/]: Generated runtime SERVER_DATA for pack Immersive Weathering Generated Pack (immersive_weathering) in: 11 ms
+[02Apr2025 22:40:26.762] [Worker-Main-3/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag create_factory:sweet_berries_jam as it is missing following references: create_factory:sweet_berries_jam_flowing (from create_factory-0.4b-1.20.1.jar)
+[02Apr2025 22:40:26.865] [Worker-Main-3/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag apocalypsenow:armor/cloth as it is missing following references: apocalypsenow:nurse_helmet (from apocalypsenow-3.0.5-forge-1.20.1.jar)
+[02Apr2025 22:40:27.704] [Worker-Main-2/ERROR] [net.minecraft.server.packs.resources.SimpleJsonResourceReloadListener/]: Couldn't parse data file createtaczauto:large_gunpowder_recipe_2 from createtaczauto:recipes/large_gunpowder_recipe_2.json
+com.google.gson.JsonParseException: com.google.gson.stream.MalformedJsonException: Expected name at line 25 column 4 path $.result.item
+	at net.minecraft.util.GsonHelper.m_13780_(GsonHelper.java:526) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
+	at net.minecraft.util.GsonHelper.m_263475_(GsonHelper.java:531) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
+	at net.minecraft.util.GsonHelper.m_13776_(GsonHelper.java:581) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
+	at net.minecraft.server.packs.resources.SimpleJsonResourceReloadListener.m_278771_(SimpleJsonResourceReloadListener.java:41) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
+	at net.minecraft.server.packs.resources.SimpleJsonResourceReloadListener.m_5944_(SimpleJsonResourceReloadListener.java:29) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
+	at net.minecraft.server.packs.resources.SimpleJsonResourceReloadListener.m_5944_(SimpleJsonResourceReloadListener.java:17) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
+	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10786_(SimplePreparableReloadListener.java:11) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+Caused by: com.google.gson.stream.MalformedJsonException: Expected name at line 25 column 4 path $.result.item
+	at com.google.gson.stream.JsonReader.syntaxError(JsonReader.java:1657) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.stream.JsonReader.doPeek(JsonReader.java:514) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.stream.JsonReader.hasNext(JsonReader.java:422) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TypeAdapters$28.read(TypeAdapters.java:779) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TypeAdapters$28.read(TypeAdapters.java:725) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TypeAdapters$34$1.read(TypeAdapters.java:1007) ~[gson-2.10.jar%2372!/:?]
+	at net.minecraft.util.GsonHelper.m_13780_(GsonHelper.java:524) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
+	... 13 more
+[02Apr2025 22:40:27.746] [Worker-Main-3/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:thirst:chests/bastion_other_bc
 com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'brewinandchewin:red_rum'
 	at net.minecraft.util.GsonHelper.m_13866_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -151,32 +176,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
-[02Apr2025 15:50:49.548] [Worker-Main-3/ERROR] [net.minecraft.server.packs.resources.SimpleJsonResourceReloadListener/]: Couldn't parse data file createtaczauto:large_gunpowder_recipe_2 from createtaczauto:recipes/large_gunpowder_recipe_2.json
-com.google.gson.JsonParseException: com.google.gson.stream.MalformedJsonException: Expected name at line 25 column 4 path $.result.item
-	at net.minecraft.util.GsonHelper.m_13780_(GsonHelper.java:526) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
-	at net.minecraft.util.GsonHelper.m_263475_(GsonHelper.java:531) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
-	at net.minecraft.util.GsonHelper.m_13776_(GsonHelper.java:581) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
-	at net.minecraft.server.packs.resources.SimpleJsonResourceReloadListener.m_278771_(SimpleJsonResourceReloadListener.java:41) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
-	at net.minecraft.server.packs.resources.SimpleJsonResourceReloadListener.m_5944_(SimpleJsonResourceReloadListener.java:29) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
-	at net.minecraft.server.packs.resources.SimpleJsonResourceReloadListener.m_5944_(SimpleJsonResourceReloadListener.java:17) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
-	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10786_(SimplePreparableReloadListener.java:11) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
-	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
-	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) ~[?:?]
-	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
-	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
-	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
-	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
-	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
-Caused by: com.google.gson.stream.MalformedJsonException: Expected name at line 25 column 4 path $.result.item
-	at com.google.gson.stream.JsonReader.syntaxError(JsonReader.java:1657) ~[gson-2.10.jar%2372!/:?]
-	at com.google.gson.stream.JsonReader.doPeek(JsonReader.java:514) ~[gson-2.10.jar%2372!/:?]
-	at com.google.gson.stream.JsonReader.hasNext(JsonReader.java:422) ~[gson-2.10.jar%2372!/:?]
-	at com.google.gson.internal.bind.TypeAdapters$28.read(TypeAdapters.java:779) ~[gson-2.10.jar%2372!/:?]
-	at com.google.gson.internal.bind.TypeAdapters$28.read(TypeAdapters.java:725) ~[gson-2.10.jar%2372!/:?]
-	at com.google.gson.internal.bind.TypeAdapters$34$1.read(TypeAdapters.java:1007) ~[gson-2.10.jar%2372!/:?]
-	at net.minecraft.util.GsonHelper.m_13780_(GsonHelper.java:524) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
-	... 13 more
-[02Apr2025 15:50:49.575] [Worker-Main-2/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:thirst:chests/bastion_other_fr
+[02Apr2025 22:40:27.827] [Worker-Main-3/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:thirst:chests/bastion_other_fr
 com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'farmersrespite:rose_hip_tea'
 	at net.minecraft.util.GsonHelper.m_13866_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -228,7 +228,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
-[02Apr2025 15:50:49.585] [Worker-Main-2/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:thirst:chests/abandoned_mineshaft_fr
+[02Apr2025 22:40:27.850] [Worker-Main-3/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:thirst:chests/abandoned_mineshaft_fr
 com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'farmersrespite:yellow_tea'
 	at net.minecraft.util.GsonHelper.m_13866_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -280,7 +280,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
-[02Apr2025 15:50:49.595] [Worker-Main-2/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:thirst:chests/abandoned_mineshaft_bc
+[02Apr2025 22:40:27.862] [Worker-Main-3/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:thirst:chests/abandoned_mineshaft_bc
 com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'brewinandchewin:beer'
 	at net.minecraft.util.GsonHelper.m_13866_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -332,7 +332,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
-[02Apr2025 15:50:49.600] [Worker-Main-2/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:thirst:chests/nether_bridge_fr
+[02Apr2025 22:40:27.873] [Worker-Main-3/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:thirst:chests/nether_bridge_fr
 com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'farmersrespite:rose_hip_tea'
 	at net.minecraft.util.GsonHelper.m_13866_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -384,7 +384,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
-[02Apr2025 15:50:49.614] [Worker-Main-2/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:thirst:chests/nether_bridge_bc
+[02Apr2025 22:40:27.890] [Worker-Main-3/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:thirst:chests/nether_bridge_bc
 com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'brewinandchewin:red_rum'
 	at net.minecraft.util.GsonHelper.m_13866_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -436,7 +436,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
-[02Apr2025 15:50:49.741] [Worker-Main-2/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:thirst:chests/shipwreck_supply_bc
+[02Apr2025 22:40:28.017] [Worker-Main-3/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:thirst:chests/shipwreck_supply_bc
 com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'brewinandchewin:mead'
 	at net.minecraft.util.GsonHelper.m_13866_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -488,7 +488,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
-[02Apr2025 15:50:49.747] [Worker-Main-2/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:thirst:chests/shipwreck_supply_fr
+[02Apr2025 22:40:28.033] [Worker-Main-3/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:thirst:chests/shipwreck_supply_fr
 com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'farmersrespite:black_tea'
 	at net.minecraft.util.GsonHelper.m_13866_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -540,7 +540,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
-[02Apr2025 15:50:49.763] [Worker-Main-2/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:thirst:chests/simple_dungeon_bc
+[02Apr2025 22:40:28.061] [Worker-Main-3/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:thirst:chests/simple_dungeon_bc
 com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'brewinandchewin:vodka'
 	at net.minecraft.util.GsonHelper.m_13866_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -592,7 +592,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
-[02Apr2025 15:50:49.771] [Worker-Main-2/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:thirst:chests/simple_dungeon_fr
+[02Apr2025 22:40:28.077] [Worker-Main-3/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:thirst:chests/simple_dungeon_fr
 com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'farmersrespite:dandelion_tea'
 	at net.minecraft.util.GsonHelper.m_13866_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -644,7 +644,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
-[02Apr2025 15:50:49.816] [Worker-Main-2/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:minecraft:chests/villagetaigahouse
+[02Apr2025 22:40:28.266] [Worker-Main-3/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:minecraft:chests/villagetaigahouse
 com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'apocalypsenow:officer_chestplate'
 	at net.minecraft.util.GsonHelper.m_13866_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -696,7 +696,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
-[02Apr2025 15:50:49.853] [Worker-Main-2/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:zombiekit:grant_book_on_first_join
+[02Apr2025 22:40:28.318] [Worker-Main-3/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:zombiekit:grant_book_on_first_join
 com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'patchouli:guide_book'
 	at net.minecraft.util.GsonHelper.m_13866_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -748,8 +748,8 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
-[02Apr2025 15:50:50.090] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:minecraft:entities/bat}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[02Apr2025 15:50:50.247] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe apocalypsenow:firemodulemachete
+[02Apr2025 22:40:28.530] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:minecraft:entities/bat}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[02Apr2025 22:40:28.678] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe apocalypsenow:firemodulemachete
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecraft:smithing'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -778,7 +778,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[02Apr2025 15:50:50.266] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe apocalypsenow:firemoduleironbat
+[02Apr2025 22:40:28.718] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe apocalypsenow:firemoduleironbat
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecraft:smithing'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -807,7 +807,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[02Apr2025 15:50:50.328] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe apocalypsenow:firemodulekatana
+[02Apr2025 22:40:28.788] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe apocalypsenow:firemodulekatana
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecraft:smithing'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -836,7 +836,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[02Apr2025 15:50:50.361] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe dynamictrees:guide
+[02Apr2025 22:40:28.826] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe dynamictrees:guide
 com.google.gson.JsonSyntaxException: Missing conditions, expected to find a JsonArray
 	at net.minecraft.util.GsonHelper.m_13933_(GsonHelper.java:447) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
 	at net.minecraftforge.common.crafting.ConditionalRecipe$Serializer.fromJson(ConditionalRecipe.java:56) ~[forge-1.20.1-47.3.7-universal.jar%23224!/:?]
@@ -865,7 +865,7 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[02Apr2025 15:50:50.371] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe apocalypsenow:eletricalclub
+[02Apr2025 22:40:28.838] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe apocalypsenow:eletricalclub
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecraft:smithing'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -894,7 +894,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[02Apr2025 15:50:50.374] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe apocalypsenow:firemodulecombataxe
+[02Apr2025 22:40:28.842] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe apocalypsenow:firemodulecombataxe
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecraft:smithing'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -923,7 +923,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[02Apr2025 15:50:50.388] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe apocalypsenow:eletricalkatana
+[02Apr2025 22:40:28.875] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe apocalypsenow:eletricalkatana
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecraft:smithing'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -952,7 +952,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[02Apr2025 15:50:50.399] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe apocalypsenow:eletricaltaticalmace
+[02Apr2025 22:40:28.901] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe apocalypsenow:eletricaltaticalmace
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecraft:smithing'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -981,7 +981,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[02Apr2025 15:50:55.322] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe apocalypsenow:combataxe
+[02Apr2025 22:40:57.005] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe apocalypsenow:combataxe
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecraft:smithing'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1010,7 +1010,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[02Apr2025 15:50:55.371] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe apocalypsenow:eletricalmachete
+[02Apr2025 22:40:57.043] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe apocalypsenow:eletricalmachete
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecraft:smithing'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1039,7 +1039,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[02Apr2025 15:50:55.401] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe apocalypsenow:rockeyhelmetrecipe
+[02Apr2025 22:40:57.073] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe apocalypsenow:rockeyhelmetrecipe
 com.google.gson.JsonSyntaxException: Unknown item 'apocalypsenow:officer_chestplate'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItem(CraftingHelper.java:160) ~[forge-1.20.1-47.3.7-universal.jar%23224!/:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:186) ~[forge-1.20.1-47.3.7-universal.jar%23224!/:?]
@@ -1072,7 +1072,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'apocalypsenow:officer_chestpl
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[02Apr2025 15:50:55.412] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe apocalypsenow:eletricalbaseballbat
+[02Apr2025 22:40:57.082] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe apocalypsenow:eletricalbaseballbat
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecraft:smithing'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1101,563 +1101,65 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[02Apr2025 15:50:55.452] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 61 recipes
-[02Apr2025 15:50:55.455] [main/INFO] [com.possible_triangle.sliceanddice.SliceAndDice/]: Injecting recipes
-[02Apr2025 15:50:55.697] [main/ERROR] [net.minecraft.advancements.AdvancementList/]: Couldn't load advancement zombiesmore:kaboom: Task Advancement{parentId=zombiesmore:kaboom, display=net.minecraft.advancements.DisplayInfo@49399894, rewards=AdvancementRewards{experience=5, loot=[], recipes=[], function=net.minecraft.commands.CommandFunction$CacheableFunction@72e194}, criteria={kaboom_0=net.minecraft.advancements.Criterion@c42e841}, requirements=[[kaboom_0]], sends_telemetry_event=false}
-[02Apr2025 15:50:55.697] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 4936 advancements
-[02Apr2025 15:50:55.799] [main/WARN] [net.minecraftforge.common.loot.LootModifierManager/]: Could not decode GlobalLootModifier with json id thirst:add_loot_shipwreck_supply - error: Unknown registry key in ResourceKey[minecraft:root / forge:global_loot_modifier_serializers]: thirst:add_loot_table
-[02Apr2025 15:50:55.800] [main/WARN] [net.minecraftforge.common.loot.LootModifierManager/]: Could not decode GlobalLootModifier with json id thirst:add_loot_shipwreck_supply_fr - error: Unknown registry key in ResourceKey[minecraft:root / forge:global_loot_modifier_serializers]: thirst:add_loot_table
-[02Apr2025 15:50:55.800] [main/WARN] [net.minecraftforge.common.loot.LootModifierManager/]: Could not decode GlobalLootModifier with json id thirst:add_loot_shipwreck_supply_bc - error: Unknown registry key in ResourceKey[minecraft:root / forge:global_loot_modifier_serializers]: thirst:add_loot_table
-[02Apr2025 15:50:55.800] [main/WARN] [net.minecraftforge.common.loot.LootModifierManager/]: Could not decode GlobalLootModifier with json id thirst:add_loot_abandoned_mineshaft - error: Unknown registry key in ResourceKey[minecraft:root / forge:global_loot_modifier_serializers]: thirst:add_loot_table
-[02Apr2025 15:50:55.800] [main/WARN] [net.minecraftforge.common.loot.LootModifierManager/]: Could not decode GlobalLootModifier with json id thirst:add_loot_abandoned_mineshaft_fr - error: Unknown registry key in ResourceKey[minecraft:root / forge:global_loot_modifier_serializers]: thirst:add_loot_table
-[02Apr2025 15:50:55.800] [main/WARN] [net.minecraftforge.common.loot.LootModifierManager/]: Could not decode GlobalLootModifier with json id thirst:add_loot_abandoned_mineshaft_bc - error: Unknown registry key in ResourceKey[minecraft:root / forge:global_loot_modifier_serializers]: thirst:add_loot_table
-[02Apr2025 15:50:55.800] [main/WARN] [net.minecraftforge.common.loot.LootModifierManager/]: Could not decode GlobalLootModifier with json id thirst:add_loot_simple_dungeon - error: Unknown registry key in ResourceKey[minecraft:root / forge:global_loot_modifier_serializers]: thirst:add_loot_table
-[02Apr2025 15:50:55.800] [main/WARN] [net.minecraftforge.common.loot.LootModifierManager/]: Could not decode GlobalLootModifier with json id thirst:add_loot_simple_dungeon_fr - error: Unknown registry key in ResourceKey[minecraft:root / forge:global_loot_modifier_serializers]: thirst:add_loot_table
-[02Apr2025 15:50:55.800] [main/WARN] [net.minecraftforge.common.loot.LootModifierManager/]: Could not decode GlobalLootModifier with json id thirst:add_loot_simple_dungeon_bc - error: Unknown registry key in ResourceKey[minecraft:root / forge:global_loot_modifier_serializers]: thirst:add_loot_table
-[02Apr2025 15:50:55.801] [main/WARN] [net.minecraftforge.common.loot.LootModifierManager/]: Could not decode GlobalLootModifier with json id thirst:add_loot_nether_bridge - error: Unknown registry key in ResourceKey[minecraft:root / forge:global_loot_modifier_serializers]: thirst:add_loot_table
-[02Apr2025 15:50:55.801] [main/WARN] [net.minecraftforge.common.loot.LootModifierManager/]: Could not decode GlobalLootModifier with json id thirst:add_loot_nether_bridge_fr - error: Unknown registry key in ResourceKey[minecraft:root / forge:global_loot_modifier_serializers]: thirst:add_loot_table
-[02Apr2025 15:50:55.801] [main/WARN] [net.minecraftforge.common.loot.LootModifierManager/]: Could not decode GlobalLootModifier with json id thirst:add_loot_nether_bridge_bc - error: Unknown registry key in ResourceKey[minecraft:root / forge:global_loot_modifier_serializers]: thirst:add_loot_table
-[02Apr2025 15:50:55.801] [main/WARN] [net.minecraftforge.common.loot.LootModifierManager/]: Could not decode GlobalLootModifier with json id thirst:add_loot_bastion_other - error: Unknown registry key in ResourceKey[minecraft:root / forge:global_loot_modifier_serializers]: thirst:add_loot_table
-[02Apr2025 15:50:55.801] [main/WARN] [net.minecraftforge.common.loot.LootModifierManager/]: Could not decode GlobalLootModifier with json id thirst:add_loot_bastion_other_fr - error: Unknown registry key in ResourceKey[minecraft:root / forge:global_loot_modifier_serializers]: thirst:add_loot_table
-[02Apr2025 15:50:55.801] [main/WARN] [net.minecraftforge.common.loot.LootModifierManager/]: Could not decode GlobalLootModifier with json id thirst:add_loot_bastion_other_bc - error: Unknown registry key in ResourceKey[minecraft:root / forge:global_loot_modifier_serializers]: thirst:add_loot_table
-[02Apr2025 15:50:55.810] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 11 curio slots
-[02Apr2025 15:50:55.818] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 1 curio entities
-[02Apr2025 15:50:59.379] [main/INFO] [com.ordana.immersive_weathering.ImmersiveWeathering/]: Loaded 78 block growths configurations
-[02Apr2025 15:50:59.384] [main/INFO] [com.ordana.immersive_weathering.ImmersiveWeathering/]: Loaded 14 liquid generators configurations
-[02Apr2025 15:50:59.626] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
-[02Apr2025 15:50:59.627] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[02Apr2025 15:50:59.627] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[02Apr2025 15:50:59.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[02Apr2025 15:50:59.798] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[02Apr2025 15:50:59.819] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[02Apr2025 15:50:59.899] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[02Apr2025 15:50:59.899] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[02Apr2025 15:50:59.899] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[02Apr2025 15:50:59.900] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[02Apr2025 15:51:00.507] [Server thread/INFO] [Framework/]: Loading server configs...
-[02Apr2025 15:51:00.559] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:the_nether
-[02Apr2025 15:51:01.106] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:overworld
-[02Apr2025 15:51:01.106] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[02Apr2025 15:51:08.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[02Apr2025 15:51:17.530] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[02Apr2025 15:51:17.531] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[02Apr2025 15:51:17.531] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[02Apr2025 15:51:17.532] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[02Apr2025 15:51:17.532] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[02Apr2025 15:51:17.533] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[02Apr2025 15:51:17.533] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[02Apr2025 15:51:17.534] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[02Apr2025 15:51:17.534] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[02Apr2025 15:51:17.534] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[02Apr2025 15:51:17.535] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[02Apr2025 15:51:17.535] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[02Apr2025 15:51:17.536] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[02Apr2025 15:51:17.537] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[02Apr2025 15:51:17.538] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[02Apr2025 15:51:17.539] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[02Apr2025 15:51:17.540] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[02Apr2025 15:51:17.541] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[02Apr2025 15:51:17.715] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[02Apr2025 15:51:18.218] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 13%
-[02Apr2025 15:51:19.151] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 31%
-[02Apr2025 15:51:19.287] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 31%
-[02Apr2025 15:51:19.717] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 35%
-[02Apr2025 15:51:20.218] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 54%
-[02Apr2025 15:51:20.722] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 68%
-[02Apr2025 15:51:21.220] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 83%
-[02Apr2025 15:51:21.721] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 96%
-[02Apr2025 15:51:21.810] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 13096 ms
-[02Apr2025 15:51:21.811] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (21.899s)! For help, type "help"
-[02Apr2025 15:51:21.871] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[02Apr2025 15:51:21.871] [Server thread/INFO] [com.muhammedesadcomert.protectmobsfromdaylight.forge.ProtectMobsFromDayLight/]: HELLO from server starting
-[02Apr2025 15:55:18.632] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
-[02Apr2025 15:55:18.739] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: slayer_np[/100.121.90.55:63442] logged in with entity id 43 at (-124.69999998807907, 42.0, 452.69999998807907)
-[02Apr2025 15:55:18.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: slayer_np joined the game
-[02Apr2025 15:55:22.293] [Server thread/INFO] [ping-wheel/]: Channel update: slayer_np -> default
-[02Apr2025 15:55:53.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Creative Mode]
-[02Apr2025 15:57:11.154] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DarkJunior[/100.71.138.83:60949] logged in with entity id 524 at (-65.5, 77.0, 145.5)
-[02Apr2025 15:57:11.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkJunior joined the game
-[02Apr2025 15:57:12.028] [Server thread/INFO] [ping-wheel/]: Channel update: DarkJunior -> default
-[02Apr2025 15:57:13.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Spectator Mode]
-[02Apr2025 15:57:15.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Creative Mode]
-[02Apr2025 15:57:22.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Survival Mode]
-[02Apr2025 15:57:25.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Creative Mode]
-[02Apr2025 15:57:34.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Survival Mode]
-[02Apr2025 15:57:35.557] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-67, y=76, z=141}
-[02Apr2025 15:57:36.661] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-66, y=76, z=140}
-[02Apr2025 15:57:36.758] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-67, y=76, z=140}
-[02Apr2025 15:57:49.907] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-66, y=76, z=140}
-[02Apr2025 15:57:52.607] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-69, y=76, z=134}
-[02Apr2025 15:57:56.955] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-78, y=77, z=135}
-[02Apr2025 15:57:57.658] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-78, y=77, z=135}
-[02Apr2025 15:59:46.958] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DarkJunior lost connection: Disconnected
-[02Apr2025 15:59:46.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkJunior left the game
-[02Apr2025 16:02:52.774] [Worker-Main-12/WARN] [com.ferreusveritas.dynamictrees.tree.species.Species/]: Rooty Dirt block NOT FOUND for soil minecraft:seagrass
-[02Apr2025 16:06:59.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Creative Mode]
-[02Apr2025 16:07:12.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Survival Mode]
-[02Apr2025 16:07:17.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Creative Mode]
-[02Apr2025 16:07:20.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Survival Mode]
-[02Apr2025 16:09:35.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Creative Mode]
-[02Apr2025 16:09:41.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Survival Mode]
-[02Apr2025 16:11:08.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Creative Mode]
-[02Apr2025 16:11:09.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Survival Mode]
-[02Apr2025 16:11:16.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Creative Mode]
-[02Apr2025 16:11:25.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Survival Mode]
-[02Apr2025 16:11:54.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Creative Mode]
-[02Apr2025 16:12:55.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: slayer_np has made the advancement [Voluntary Exile]
-[02Apr2025 16:13:26.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Survival Mode]
-[02Apr2025 16:14:48.703] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DarkJunior[/100.71.138.83:61045] logged in with entity id 8489 at (-129.1959618968036, 85.0, 141.23572071454697)
-[02Apr2025 16:14:48.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkJunior joined the game
-[02Apr2025 16:14:48.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkJunior has made the advancement [First Day]
-[02Apr2025 16:14:49.191] [Server thread/INFO] [ping-wheel/]: Channel update: DarkJunior -> default
-[02Apr2025 16:15:10.020] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: edinson123pro[/100.76.109.16:57729] logged in with entity id 8625 at (-124.44061969513878, 63.0, 449.72165804243207)
-[02Apr2025 16:15:10.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: edinson123pro joined the game
-[02Apr2025 16:15:13.501] [Server thread/INFO] [ping-wheel/]: Channel update: edinson123pro -> default
-[02Apr2025 16:16:02.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkJunior has made the advancement [Monster Hunter]
-[02Apr2025 16:16:30.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkJunior has made the advancement [Stone Age]
-[02Apr2025 16:16:30.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkJunior has made the advancement [Acquire Hardware]
-[02Apr2025 16:22:43.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkJunior has made the advancement [Isn't It Iron Pick]
-[02Apr2025 16:24:00.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Creative Mode]
-[02Apr2025 16:24:03.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Survival Mode]
-[02Apr2025 16:24:11.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <slayer_np> edinson123pro?
-[02Apr2025 16:24:12.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <slayer_np> edinson123pro?
-[02Apr2025 16:24:12.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <edinson123pro> voy a entrar desede celular
-[02Apr2025 16:24:39.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <slayer_np> edinson123pro?
-[02Apr2025 16:24:39.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <slayer_np> edinson123pro?
-[02Apr2025 16:24:40.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <slayer_np> edinson123pro?
-[02Apr2025 16:24:49.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <edinson123pro> entrare emn celular
-[02Apr2025 16:24:53.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <slayer_np> o
-[02Apr2025 16:24:53.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <slayer_np> ok
-[02Apr2025 16:24:59.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <slayer_np> te pusiste el mod de optimizacion?
-[02Apr2025 16:25:01.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Creative Mode]
-[02Apr2025 16:25:03.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <edinson123pro> siassi
-[02Apr2025 16:25:09.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Survival Mode]
-[02Apr2025 16:27:37.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Applied effect Night Vision to DarkJunior]
-[02Apr2025 16:27:54.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: edinson123pro lost too much blood while trying to escape slayer_np.
-[02Apr2025 16:27:59.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Teleported edinson123pro to slayer_np]
-[02Apr2025 16:28:24.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Creative Mode]
-[02Apr2025 16:28:47.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <edinson123pro> hay alñgo que le pones para que vaya mejor?
-[02Apr2025 16:28:53.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Survival Mode]
-[02Apr2025 16:28:57.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <slayer_np> si
-[02Apr2025 16:29:01.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <slayer_np> entra dc
-[02Apr2025 16:29:01.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <edinson123pro> q7ue cosa
-[02Apr2025 16:29:02.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <slayer_np> y te digo xd
-[02Apr2025 16:29:03.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <edinson123pro> oik
-[02Apr2025 16:29:06.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <slayer_np> a mi me va bien
-[02Apr2025 16:29:21.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <edinson123pro> me va a 30 ty 40 pero a veces de la nada se baja a cero xd
-[02Apr2025 16:29:22.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Creative Mode]
-[02Apr2025 16:29:30.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Survival Mode]
-[02Apr2025 16:30:03.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkJunior has made the advancement [Getting an Upgrade]
-[02Apr2025 16:33:37.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Spectator Mode]
-[02Apr2025 16:33:40.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Teleported slayer_np to DarkJunior]
-[02Apr2025 16:33:41.743] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: edinson123pro lost connection: Timed out
-[02Apr2025 16:33:41.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: edinson123pro left the game
-[02Apr2025 16:33:41.798] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
-[02Apr2025 16:34:01.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Survival Mode]
-[02Apr2025 16:34:02.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Creative Mode]
-[02Apr2025 16:34:12.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Applied effect Placeholdereffectignore to DarkJunior]
-[02Apr2025 16:34:24.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Applied effect Night Vision to 2 targets]
-[02Apr2025 16:34:32.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Applied effect Placeholdereffectignore to DarkJunior]
-[02Apr2025 16:35:05.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Applied effect Pain to DarkJunior]
-[02Apr2025 16:35:30.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Survival Mode]
-[02Apr2025 16:38:38.055] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: edinson123pro[/100.76.109.16:57857] logged in with entity id 15653 at (-125.69856436292434, 58.0, 442.1207841276735)
-[02Apr2025 16:38:38.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: edinson123pro joined the game
-[02Apr2025 16:38:39.855] [Server thread/INFO] [ping-wheel/]: Channel update: edinson123pro -> default
-[02Apr2025 16:39:00.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Creative Mode]
-[02Apr2025 16:39:02.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Spectator Mode]
-[02Apr2025 16:39:15.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Teleported slayer_np to edinson123pro]
-[02Apr2025 16:39:30.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Creative Mode]
-[02Apr2025 16:39:36.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Survival Mode]
-[02Apr2025 16:40:07.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Applied effect Night Vision to 3 targets]
-[02Apr2025 16:41:20.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkJunior lost too much blood while trying to escape edinson123pro.
-[02Apr2025 16:41:29.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Teleported DarkJunior to slayer_np]
-[02Apr2025 16:46:07.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Applied effect Haste to slayer_np]
-[02Apr2025 16:46:21.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Applied effect Haste to slayer_np]
-[02Apr2025 16:46:33.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Applied effect Haste to slayer_np]
-[02Apr2025 16:46:49.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Applied effect Haste to slayer_np]
-[02Apr2025 16:47:11.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Creative Mode]
-[02Apr2025 16:47:14.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Survival Mode]
-[02Apr2025 16:47:16.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Applied effect Haste to slayer_np]
-[02Apr2025 16:47:29.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Applied effect Haste to slayer_np]
-[02Apr2025 16:47:44.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Spectator Mode]
-[02Apr2025 16:47:46.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Teleported slayer_np to edinson123pro]
-[02Apr2025 16:47:50.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Survival Mode]
-[02Apr2025 16:49:04.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkJunior has made the advancement [Sweet Dreams]
-[02Apr2025 16:49:57.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: The difficulty has been set to Hard]
-[02Apr2025 16:51:39.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Creative Mode]
-[02Apr2025 16:51:54.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Survival Mode]
-[02Apr2025 16:52:31.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Applied effect Haste to slayer_np]
-[02Apr2025 16:52:34.940] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DarkJunior lost connection: Disconnected
-[02Apr2025 16:52:34.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkJunior left the game
-[02Apr2025 16:52:47.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Applied effect Haste to slayer_np]
-[02Apr2025 16:53:25.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Creative Mode]
-[02Apr2025 16:53:27.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Spectator Mode]
-[02Apr2025 16:53:52.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Teleported slayer_np to edinson123pro]
-[02Apr2025 16:54:21.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Survival Mode]
-[02Apr2025 16:54:40.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Spectator Mode]
-[02Apr2025 16:54:42.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Teleported slayer_np to edinson123pro]
-[02Apr2025 16:54:47.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Survival Mode]
-[02Apr2025 16:55:38.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Creative Mode]
-[02Apr2025 16:56:15.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Survival Mode]
-[02Apr2025 16:56:26.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Applied effect Haste to slayer_np]
-[02Apr2025 16:56:45.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Applied effect Haste to slayer_np]
-[02Apr2025 16:56:59.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Applied effect Haste to slayer_np]
-[02Apr2025 16:57:10.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Applied effect Haste to slayer_np]
-[02Apr2025 16:57:30.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Applied effect Haste to slayer_np]
-[02Apr2025 16:57:47.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Applied effect Haste to slayer_np]
-[02Apr2025 16:57:57.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Spectator Mode]
-[02Apr2025 16:58:05.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Creative Mode]
-[02Apr2025 16:58:11.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Survival Mode]
-[02Apr2025 16:58:12.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Applied effect Haste to slayer_np]
-[02Apr2025 16:58:21.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Creative Mode]
-[02Apr2025 16:58:26.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Survival Mode]
-[02Apr2025 16:58:27.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Applied effect Haste to slayer_np]
-[02Apr2025 16:58:37.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Spectator Mode]
-[02Apr2025 16:58:41.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Survival Mode]
-[02Apr2025 17:00:19.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Spectator Mode]
-[02Apr2025 17:00:26.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Creative Mode]
-[02Apr2025 17:00:58.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Survival Mode]
-[02Apr2025 17:01:06.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Spectator Mode]
-[02Apr2025 17:01:11.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Survival Mode]
-[02Apr2025 17:02:25.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Spectator Mode]
-[02Apr2025 17:02:36.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Survival Mode]
-[02Apr2025 17:02:39.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: slayer_np has made the advancement [Diamonds!]
-[02Apr2025 17:02:53.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Spectator Mode]
-[02Apr2025 17:03:01.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Survival Mode]
-[02Apr2025 17:03:16.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Adventure Mode]
-[02Apr2025 17:03:19.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Creative Mode]
-[02Apr2025 17:03:22.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Adventure Mode]
-[02Apr2025 17:04:41.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Creative Mode]
-[02Apr2025 17:04:48.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Adventure Mode]
-[02Apr2025 17:05:52.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Survival Mode]
-[02Apr2025 17:05:58.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: edinson123pro has made the advancement [Diamonds!]
-[02Apr2025 17:06:15.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Spectator Mode]
-[02Apr2025 17:06:31.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Summoned new Crawler]
-[02Apr2025 17:06:36.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Summoned new Crawler]
-[02Apr2025 17:06:36.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Summoned new Crawler]
-[02Apr2025 17:06:40.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Summoned new Crawler]
-[02Apr2025 17:06:40.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Summoned new Crawler]
-[02Apr2025 17:06:59.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Summoned new Crawler]
-[02Apr2025 17:06:59.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Summoned new Crawler]
-[02Apr2025 17:07:01.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Summoned new Crawler]
-[02Apr2025 17:07:05.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Summoned new Faceless]
-[02Apr2025 17:07:08.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Summoned new Faceless]
-[02Apr2025 17:07:08.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Summoned new Faceless]
-[02Apr2025 17:07:09.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Summoned new Faceless]
-[02Apr2025 17:07:15.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Summoned new Faceless]
-[02Apr2025 17:07:16.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Survival Mode]
-[02Apr2025 17:09:23.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Spectator Mode]
-[02Apr2025 17:09:24.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Summoned new Faceless]
-[02Apr2025 17:09:29.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Summoned new Faceless]
-[02Apr2025 17:09:35.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Summoned new Faceless]
-[02Apr2025 17:09:36.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Summoned new Faceless]
-[02Apr2025 17:09:38.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Summoned new Faceless]
-[02Apr2025 17:09:39.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Summoned new Faceless]
-[02Apr2025 17:09:40.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Summoned new Faceless]
-[02Apr2025 17:09:41.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Summoned new Faceless]
-[02Apr2025 17:09:43.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Survival Mode]
-[02Apr2025 17:11:07.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Applied effect Regeneration to 2 targets]
-[02Apr2025 17:11:44.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: edinson123pro joined zombies.
-[02Apr2025 17:11:46.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Spectator Mode]
-[02Apr2025 17:11:53.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Adventure Mode]
-[02Apr2025 17:12:01.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Survival Mode]
-[02Apr2025 17:13:15.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Spectator Mode]
-[02Apr2025 17:13:22.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Summoned new Faceless]
-[02Apr2025 17:13:23.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Summoned new Faceless]
-[02Apr2025 17:13:29.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Summoned new Cannibal]
-[02Apr2025 17:13:32.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Summoned new Cannibal]
-[02Apr2025 17:13:39.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Summoned new Military]
-[02Apr2025 17:13:44.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Summoned new Military]
-[02Apr2025 17:13:48.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Summoned new Assasin Black Ops]
-[02Apr2025 17:13:49.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Summoned new Assasin Black Ops]
-[02Apr2025 17:13:51.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Summoned new Assasin Black Ops]
-[02Apr2025 17:13:53.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Summoned new Assasin Black Ops]
-[02Apr2025 17:13:59.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Summoned new Demolisher]
-[02Apr2025 17:14:01.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Summoned new Demolisher]
-[02Apr2025 17:14:05.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Survival Mode]
-[02Apr2025 17:14:35.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Creative Mode]
-[02Apr2025 17:14:44.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Survival Mode]
-[02Apr2025 17:15:40.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Creative Mode]
-[02Apr2025 17:15:51.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Survival Mode]
-[02Apr2025 17:16:28.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Creative Mode]
-[02Apr2025 17:16:33.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Survival Mode]
-[02Apr2025 17:16:39.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Spectator Mode]
-[02Apr2025 17:16:44.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Summoned new Assasin Black Ops]
-[02Apr2025 17:16:45.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Summoned new Assasin Black Ops]
-[02Apr2025 17:16:51.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Summoned new Crawler]
-[02Apr2025 17:16:53.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Summoned new Crawler]
-[02Apr2025 17:16:53.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Summoned new Crawler]
-[02Apr2025 17:16:54.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Summoned new Crawler]
-[02Apr2025 17:16:55.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Summoned new Crawler]
-[02Apr2025 17:16:58.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Summoned new Demolisher]
-[02Apr2025 17:17:00.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Summoned new Demolisher]
-[02Apr2025 17:17:04.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Summoned new Explosive Infected]
-[02Apr2025 17:17:07.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Summoned new Explosive Infected]
-[02Apr2025 17:17:08.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Summoned new Explosive Infected]
-[02Apr2025 17:17:14.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Summoned new Chainsaw]
-[02Apr2025 17:17:15.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Summoned new Chainsaw]
-[02Apr2025 17:17:16.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Summoned new Chainsaw]
-[02Apr2025 17:17:17.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Summoned new Chainsaw]
-[02Apr2025 17:17:19.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Summoned new Chainsaw]
-[02Apr2025 17:17:29.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Summoned new Chainsaw]
-[02Apr2025 17:17:31.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Summoned new Chainsaw]
-[02Apr2025 17:17:32.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Summoned new Explosive Infected]
-[02Apr2025 17:17:36.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Survival Mode]
-[02Apr2025 17:19:19.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Creative Mode]
-[02Apr2025 17:19:23.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Survival Mode]
-[02Apr2025 17:20:17.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Creative Mode]
-[02Apr2025 17:20:18.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Survival Mode]
-[02Apr2025 17:20:19.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Spectator Mode]
-[02Apr2025 17:20:24.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Summoned new Explosive Infected]
-[02Apr2025 17:20:25.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Summoned new Explosive Infected]
-[02Apr2025 17:20:29.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Summoned new Explosive Infected]
-[02Apr2025 17:20:29.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Summoned new Explosive Infected]
-[02Apr2025 17:20:30.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Summoned new Explosive Infected]
-[02Apr2025 17:20:31.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Summoned new Explosive Infected]
-[02Apr2025 17:20:31.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Summoned new Explosive Infected]
-[02Apr2025 17:20:32.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Summoned new Explosive Infected]
-[02Apr2025 17:20:32.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Summoned new Explosive Infected]
-[02Apr2025 17:20:36.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Summoned new Chainsaw]
-[02Apr2025 17:20:37.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Summoned new Chainsaw]
-[02Apr2025 17:20:38.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Summoned new Chainsaw]
-[02Apr2025 17:20:41.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Survival Mode]
-[02Apr2025 17:21:32.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: edinson123pro lost too much blood.
-[02Apr2025 17:21:41.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Teleported edinson123pro to slayer_np]
-[02Apr2025 17:22:06.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Creative Mode]
-[02Apr2025 17:22:09.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: slayer_np has made the advancement [Keep Going]
-[02Apr2025 17:22:11.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Survival Mode]
-[02Apr2025 17:22:52.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: slayer_np lost too much blood.
-[02Apr2025 17:23:43.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Creative Mode]
-[02Apr2025 17:23:52.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Spectator Mode]
-[02Apr2025 17:23:59.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Summoned new entity.apocalypsenow.baseballball_projectile]
-[02Apr2025 17:24:03.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Summoned new entity.apocalypsenow.baseballball_projectile]
-[02Apr2025 17:24:06.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Summoned new entity.apocalypsenow.cocktelmolotov_3_projectile]
-[02Apr2025 17:24:11.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Summoned new Dropbox]
-[02Apr2025 17:24:21.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Summoned new entity.apocalypsenow.coktelmolotov_2_projectile]
-[02Apr2025 17:24:31.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Teleported slayer_np to edinson123pro]
-[02Apr2025 17:24:34.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Teleported slayer_np to edinson123pro]
-[02Apr2025 17:24:40.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Summoned new entity.apocalypsenow.coktelmolotov_2_projectile]
-[02Apr2025 17:24:44.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Summoned new entity.apocalypsenow.coktelmolotov_2_projectile]
-[02Apr2025 17:24:46.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Summoned new entity.apocalypsenow.coktelmolotov_2_projectile]
-[02Apr2025 17:24:51.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Summoned new entity.apocalypsenow.coktelmolotov_2_projectile]
-[02Apr2025 17:24:55.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Summoned new entity.apocalypsenow.coktelmolotov_2_projectile]
-[02Apr2025 17:25:09.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Summoned new entity.apocalypsenow.coktelmolotov_2_projectile]
-[02Apr2025 17:25:17.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Summoned new entity.apocalypsenow.cocktelmolotov_3_projectile]
-[02Apr2025 17:25:20.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Summoned new entity.apocalypsenow.cocktelmolotov_3_projectile]
-[02Apr2025 17:25:29.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Summoned new Military]
-[02Apr2025 17:25:39.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Teleported slayer_np to edinson123pro]
-[02Apr2025 17:25:43.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Teleported slayer_np to edinson123pro]
-[02Apr2025 17:25:47.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Summoned new Military]
-[02Apr2025 17:25:57.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Summoned new Dropbox]
-[02Apr2025 17:26:11.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Survival Mode]
-[02Apr2025 17:27:28.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Creative Mode]
-[02Apr2025 17:27:35.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Survival Mode]
-[02Apr2025 17:28:29.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Spectator Mode]
-[02Apr2025 17:28:34.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Summoned new Military]
-[02Apr2025 17:28:39.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Summoned new entity.apocalypsenow.baseballball_projectile]
-[02Apr2025 17:28:45.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Summoned new Runner]
-[02Apr2025 17:28:49.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Summoned new Runner]
-[02Apr2025 17:28:52.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Summoned new Runner]
-[02Apr2025 17:29:02.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Summoned new Survivor]
-[02Apr2025 17:29:08.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Summoned new Survivor]
-[02Apr2025 17:29:15.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Summoned new Survivor]
-[02Apr2025 17:29:16.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Summoned new Survivor]
-[02Apr2025 17:29:19.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Summoned new Survivor]
-[02Apr2025 17:29:21.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Summoned new Runner]
-[02Apr2025 17:29:22.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Summoned new Runner]
-[02Apr2025 17:29:22.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Summoned new Runner]
-[02Apr2025 17:29:28.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Summoned new Runner]
-[02Apr2025 17:29:29.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Summoned new Runner]
-[02Apr2025 17:29:30.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Summoned new Runner]
-[02Apr2025 17:29:54.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Summoned new Walker]
-[02Apr2025 17:30:05.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Summoned new Survivor]
-[02Apr2025 17:30:09.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Summoned new entity.apocalypsenow.climbingropewithhook_projectile]
-[02Apr2025 17:30:17.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Summoned new Horde (5)]
-[02Apr2025 17:30:33.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Applied effect Invisibility to slayer_np]
-[02Apr2025 17:30:35.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Survival Mode]
-[02Apr2025 17:30:37.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: edinson123pro has made the advancement [Bark Off]
-[02Apr2025 17:30:41.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Creative Mode]
-[02Apr2025 17:30:42.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: edinson123pro has made the advancement [The Andesite Age]
-[02Apr2025 17:30:45.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Summoned new Horde (5)]
-[02Apr2025 17:31:04.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Survival Mode]
-[02Apr2025 17:31:07.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Spectator Mode]
-[02Apr2025 17:31:15.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Survival Mode]
-[02Apr2025 17:31:58.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Removed every effect from slayer_np]
-[02Apr2025 17:32:03.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Creative Mode]
-[02Apr2025 17:32:08.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: slayer_np has made the advancement [Hot Stuff]
-[02Apr2025 17:32:09.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Survival Mode]
-[02Apr2025 17:33:41.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Spectator Mode]
-[02Apr2025 17:33:45.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Survival Mode]
-[02Apr2025 17:34:49.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Spectator Mode]
-[02Apr2025 17:34:54.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Summoned new Horde (5)]
-[02Apr2025 17:35:04.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Summoned new entity.apocalypsenow.baseballball_projectile]
-[02Apr2025 17:35:13.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Summoned new Super Glue]
-[02Apr2025 17:35:17.028] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Exception loading entity: 
-net.minecraft.ReportedException: Loading entity NBT
-	at net.minecraft.world.entity.Entity.m_20258_(Entity.java:1765) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
-	at net.minecraft.world.entity.EntityType.m_185988_(EntityType.java:532) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
-	at net.minecraft.Util.m_137521_(Util.java:419) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
-	at net.minecraft.world.entity.EntityType.m_20642_(EntityType.java:529) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
-	at net.minecraft.world.entity.EntityType.m_20669_(EntityType.java:607) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
-	at net.minecraft.world.entity.EntityType.m_20645_(EntityType.java:563) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
-	at net.minecraft.server.commands.SummonCommand.m_269066_(SummonCommand.java:67) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
-	at net.minecraft.server.commands.SummonCommand.m_245828_(SummonCommand.java:86) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
-	at net.minecraft.server.commands.SummonCommand.m_244863_(SummonCommand.java:44) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
-	at com.mojang.brigadier.CommandDispatcher.execute(CommandDispatcher.java:264) ~[brigadier-1.1.8.jar%2376!/:?]
-	at net.minecraft.commands.Commands.m_242674_(Commands.java:257) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
-	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_246958_(ServerGamePacketListenerImpl.java:1244) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
-	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_244885_(ServerGamePacketListenerImpl.java:1221) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
-	at net.minecraft.util.thread.BlockableEventLoop.m_18693_(BlockableEventLoop.java:67) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
-	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
-	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
-	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
-	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
-	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
-	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
-	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
-	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
-	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
-	at net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:139) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
-	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:733) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
-	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
-	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
-	at java.lang.Thread.run(Thread.java:840) ~[?:?]
-Caused by: java.lang.NullPointerException: Cannot invoke "com.simibubi.create.content.contraptions.Contraption.readNBT(net.minecraft.world.level.Level, net.minecraft.nbt.CompoundTag, boolean)" because "contraption" is null
-	at com.simibubi.create.content.contraptions.Contraption.fromNBT(Contraption.java:219) ~[create-1.20.1-6.0.4.jar%23167!/:6.0.4]
-	at com.simibubi.create.content.contraptions.AbstractContraptionEntity.readAdditional(AbstractContraptionEntity.java:652) ~[create-1.20.1-6.0.4.jar%23167!/:6.0.4]
-	at com.simibubi.create.content.contraptions.OrientedContraptionEntity.readAdditional(OrientedContraptionEntity.java:157) ~[create-1.20.1-6.0.4.jar%23167!/:6.0.4]
-	at com.simibubi.create.content.trains.entity.CarriageContraptionEntity.readAdditional(CarriageContraptionEntity.java:474) ~[create-1.20.1-6.0.4.jar%23167!/:6.0.4]
-	at com.simibubi.create.content.contraptions.AbstractContraptionEntity.m_7378_(AbstractContraptionEntity.java:644) ~[create-1.20.1-6.0.4.jar%23167!/:6.0.4]
-	at net.minecraft.world.entity.Entity.m_20258_(Entity.java:1750) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
-	... 27 more
-[02Apr2025 17:35:27.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Summoned new Mercenary]
-[02Apr2025 17:35:33.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Summoned new Fallen Survivor]
-[02Apr2025 17:35:41.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Summoned new Fallen Survivor]
-[02Apr2025 17:35:43.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Summoned new Fallen Survivor]
-[02Apr2025 17:35:45.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Summoned new Mercenary]
-[02Apr2025 17:35:56.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Summoned new Infected Soldier]
-[02Apr2025 17:36:09.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Teleported slayer_np to edinson123pro]
-[02Apr2025 17:36:13.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Teleported slayer_np to edinson123pro]
-[02Apr2025 17:36:19.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Summoned new Infected Soldier]
-[02Apr2025 17:36:27.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Summoned new Infected Soldier]
-[02Apr2025 17:36:31.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Creative Mode]
-[02Apr2025 17:36:35.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Applied effect Invisibility to slayer_np]
-[02Apr2025 17:37:07.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Survival Mode]
-[02Apr2025 17:37:11.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Removed every effect from slayer_np]
-[02Apr2025 17:37:34.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Applied effect Regeneration to 2 targets]
-[02Apr2025 17:38:26.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Creative Mode]
-[02Apr2025 17:39:17.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Survival Mode]
-[02Apr2025 17:40:25.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Creative Mode]
-[02Apr2025 17:40:30.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Applied effect Invisibility to slayer_np]
-[02Apr2025 17:40:41.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Summoned new Infected Soldier]
-[02Apr2025 17:41:09.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Summoned new entity.apocalypsenow.spraypeppergas]
-[02Apr2025 17:41:21.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: edinson123pro has made the advancement [The Brass Age]
-[02Apr2025 17:41:31.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Summoned new entity.apocalypsenow.spraypeppergas]
-[02Apr2025 17:41:31.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Summoned new entity.apocalypsenow.spraypeppergas]
-[02Apr2025 17:41:41.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Summoned new entity.apocalypsenow.spraypeppergas]
-[02Apr2025 17:41:55.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Summoned new entity.apocalypsenow.spraypeppergas]
-[02Apr2025 17:42:00.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Summoned new entity.apocalypsenow.spraypeppergas]
-[02Apr2025 17:42:00.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Summoned new entity.apocalypsenow.spraypeppergas]
-[02Apr2025 17:42:02.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Summoned new entity.apocalypsenow.spraypeppergas]
-[02Apr2025 17:42:09.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: edinson123pro has made the advancement [Keep Going]
-[02Apr2025 17:42:55.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: edinson123pro lost too much blood while trying to escape Runner.
-[02Apr2025 17:43:07.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Survival Mode]
-[02Apr2025 17:43:14.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Removed every effect from 2 targets]
-[02Apr2025 17:43:17.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Creative Mode]
-[02Apr2025 17:43:35.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Survival Mode]
-[02Apr2025 17:43:40.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: edinson123pro died
-[02Apr2025 17:43:41.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Applied effect Regeneration to 2 targets]
-[02Apr2025 17:44:22.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Spectator Mode]
-[02Apr2025 17:44:27.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Survival Mode]
-[02Apr2025 17:44:28.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Spectator Mode]
-[02Apr2025 17:44:29.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Creative Mode]
-[02Apr2025 17:44:49.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Spectator Mode]
-[02Apr2025 17:44:58.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Survival Mode]
-[02Apr2025 17:45:05.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Creative Mode]
-[02Apr2025 17:45:11.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Survival Mode]
-[02Apr2025 17:45:43.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Applied effect Regeneration to 2 targets]
-[02Apr2025 17:45:43.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Applied effect Regeneration to 2 targets]
-[02Apr2025 17:46:26.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Applied effect Regeneration to 2 targets]
-[02Apr2025 17:46:27.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Applied effect Regeneration to 2 targets]
-[02Apr2025 17:46:30.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Applied effect Regeneration to 2 targets]
-[02Apr2025 17:47:06.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Creative Mode]
-[02Apr2025 17:47:07.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Survival Mode]
-[02Apr2025 17:47:09.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Spectator Mode]
-[02Apr2025 17:47:12.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: edinson123pro lost too much blood.
-[02Apr2025 17:47:16.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Survival Mode]
-[02Apr2025 17:48:54.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Spectator Mode]
-[02Apr2025 17:48:56.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Survival Mode]
-[02Apr2025 17:48:58.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Creative Mode]
-[02Apr2025 17:49:11.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Survival Mode]
-[02Apr2025 17:49:49.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Creative Mode]
-[02Apr2025 17:50:02.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Survival Mode]
-[02Apr2025 17:50:12.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Creative Mode]
-[02Apr2025 17:50:30.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Survival Mode]
-[02Apr2025 17:51:19.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Applied effect Haste to slayer_np]
-[02Apr2025 17:51:51.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Creative Mode]
-[02Apr2025 17:52:14.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Survival Mode]
-[02Apr2025 17:52:22.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Creative Mode]
-[02Apr2025 17:52:32.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Survival Mode]
-[02Apr2025 17:52:42.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: slayer_np has made the advancement [Hunt and Gather]
-[02Apr2025 17:52:51.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Creative Mode]
-[02Apr2025 17:53:02.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Survival Mode]
-[02Apr2025 17:54:31.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Creative Mode]
-[02Apr2025 17:54:58.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Survival Mode]
-[02Apr2025 17:55:46.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Applied effect Haste to slayer_np]
-[02Apr2025 17:56:08.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Applied effect Haste to slayer_np]
-[02Apr2025 17:57:45.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Spectator Mode]
-[02Apr2025 17:58:03.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Adventure Mode]
-[02Apr2025 17:58:22.113] [Server thread/INFO] [ping-wheel/]: Channel update: slayer_np -> default
-[02Apr2025 17:58:34.558] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DarkJunior[/100.71.138.83:61549] logged in with entity id 30509 at (-151.54117540275124, 21.0, 389.3341042210623)
-[02Apr2025 17:58:34.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkJunior joined the game
-[02Apr2025 17:58:34.956] [Server thread/INFO] [ping-wheel/]: Channel update: DarkJunior -> default
-[02Apr2025 17:58:39.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Applied effect Haste to slayer_np]
-[02Apr2025 17:58:45.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Survival Mode]
-[02Apr2025 17:59:15.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Creative Mode]
-[02Apr2025 17:59:18.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Survival Mode]
-[02Apr2025 17:59:28.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Creative Mode]
-[02Apr2025 17:59:32.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Survival Mode]
-[02Apr2025 18:01:17.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Creative Mode]
-[02Apr2025 18:01:26.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Survival Mode]
-[02Apr2025 18:02:40.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Applied effect Regeneration to 3 targets]
-[02Apr2025 18:02:48.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Creative Mode]
-[02Apr2025 18:02:52.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Survival Mode]
-[02Apr2025 18:04:42.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkJunior lost too much blood.
-[02Apr2025 18:04:48.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Teleported edinson123pro to slayer_np]
-[02Apr2025 18:05:16.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Teleported DarkJunior to slayer_np]
-[02Apr2025 18:05:46.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Applied effect Regeneration to 3 targets]
-[02Apr2025 18:08:22.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Creative Mode]
-[02Apr2025 18:08:28.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Survival Mode]
-[02Apr2025 18:08:42.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: edinson123pro lost too much blood.
-[02Apr2025 18:09:11.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Teleported edinson123pro to slayer_np]
-[02Apr2025 18:09:41.797] [Server thread/INFO] [ping-wheel/]: Channel update: slayer_np -> default
-[02Apr2025 18:10:31.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Creative Mode]
-[02Apr2025 18:10:32.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Teleported slayer_np to edinson123pro]
-[02Apr2025 18:10:35.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Survival Mode]
-[02Apr2025 18:11:00.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Spectator Mode]
-[02Apr2025 18:11:09.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Teleported edinson123pro to DarkJunior]
-[02Apr2025 18:11:15.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Survival Mode]
-[02Apr2025 18:12:40.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Applied effect Regeneration to 3 targets]
-[02Apr2025 18:13:04.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <slayer_np> e
-[02Apr2025 18:13:15.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Applied effect Regeneration to 3 targets]
-[02Apr2025 18:13:35.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Applied effect Regeneration to 3 targets]
-[02Apr2025 18:14:19.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Adventure Mode]
-[02Apr2025 18:14:25.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Creative Mode]
-[02Apr2025 18:15:02.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Adventure Mode]
-[02Apr2025 18:15:11.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Survival Mode]
-[02Apr2025 18:15:20.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Applied effect Regeneration to 3 targets]
-[02Apr2025 18:15:33.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Applied effect Regeneration to 3 targets]
-[02Apr2025 18:15:58.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Applied effect Regeneration to 3 targets]
-[02Apr2025 18:16:02.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: edinson123pro has made the advancement [Not Today, Thank You]
-[02Apr2025 18:16:05.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Applied effect Regeneration to 3 targets]
-[02Apr2025 18:16:14.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: slayer_np was shot by Skeleton
-[02Apr2025 18:16:23.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Creative Mode]
-[02Apr2025 18:16:25.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Survival Mode]
-[02Apr2025 18:16:37.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Creative Mode]
-[02Apr2025 18:17:08.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Survival Mode]
-[02Apr2025 18:17:33.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Applied effect Regeneration to 3 targets]
-[02Apr2025 18:18:30.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: slayer_np was doomed to fall by Skeleton
-[02Apr2025 18:19:56.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Applied effect Regeneration to 3 targets]
-[02Apr2025 18:20:05.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: edinson123pro lost too much blood while trying to escape slayer_np.
-[02Apr2025 18:20:13.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: edinson123pro lost too much blood while trying to escape slayer_np.
-[02Apr2025 18:20:20.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: edinson123pro was shot by slayer_np
+[02Apr2025 22:40:57.119] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 61 recipes
+[02Apr2025 22:40:57.122] [main/INFO] [com.possible_triangle.sliceanddice.SliceAndDice/]: Injecting recipes
+[02Apr2025 22:40:57.318] [main/ERROR] [net.minecraft.advancements.AdvancementList/]: Couldn't load advancement zombiesmore:kaboom: Task Advancement{parentId=zombiesmore:kaboom, display=net.minecraft.advancements.DisplayInfo@14e9857f, rewards=AdvancementRewards{experience=5, loot=[], recipes=[], function=net.minecraft.commands.CommandFunction$CacheableFunction@428a493d}, criteria={kaboom_0=net.minecraft.advancements.Criterion@878cc14}, requirements=[[kaboom_0]], sends_telemetry_event=false}
+[02Apr2025 22:40:57.318] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 4936 advancements
+[02Apr2025 22:40:57.440] [main/WARN] [net.minecraftforge.common.loot.LootModifierManager/]: Could not decode GlobalLootModifier with json id thirst:add_loot_shipwreck_supply - error: Unknown registry key in ResourceKey[minecraft:root / forge:global_loot_modifier_serializers]: thirst:add_loot_table
+[02Apr2025 22:40:57.440] [main/WARN] [net.minecraftforge.common.loot.LootModifierManager/]: Could not decode GlobalLootModifier with json id thirst:add_loot_shipwreck_supply_fr - error: Unknown registry key in ResourceKey[minecraft:root / forge:global_loot_modifier_serializers]: thirst:add_loot_table
+[02Apr2025 22:40:57.440] [main/WARN] [net.minecraftforge.common.loot.LootModifierManager/]: Could not decode GlobalLootModifier with json id thirst:add_loot_shipwreck_supply_bc - error: Unknown registry key in ResourceKey[minecraft:root / forge:global_loot_modifier_serializers]: thirst:add_loot_table
+[02Apr2025 22:40:57.440] [main/WARN] [net.minecraftforge.common.loot.LootModifierManager/]: Could not decode GlobalLootModifier with json id thirst:add_loot_abandoned_mineshaft - error: Unknown registry key in ResourceKey[minecraft:root / forge:global_loot_modifier_serializers]: thirst:add_loot_table
+[02Apr2025 22:40:57.440] [main/WARN] [net.minecraftforge.common.loot.LootModifierManager/]: Could not decode GlobalLootModifier with json id thirst:add_loot_abandoned_mineshaft_fr - error: Unknown registry key in ResourceKey[minecraft:root / forge:global_loot_modifier_serializers]: thirst:add_loot_table
+[02Apr2025 22:40:57.440] [main/WARN] [net.minecraftforge.common.loot.LootModifierManager/]: Could not decode GlobalLootModifier with json id thirst:add_loot_abandoned_mineshaft_bc - error: Unknown registry key in ResourceKey[minecraft:root / forge:global_loot_modifier_serializers]: thirst:add_loot_table
+[02Apr2025 22:40:57.440] [main/WARN] [net.minecraftforge.common.loot.LootModifierManager/]: Could not decode GlobalLootModifier with json id thirst:add_loot_simple_dungeon - error: Unknown registry key in ResourceKey[minecraft:root / forge:global_loot_modifier_serializers]: thirst:add_loot_table
+[02Apr2025 22:40:57.441] [main/WARN] [net.minecraftforge.common.loot.LootModifierManager/]: Could not decode GlobalLootModifier with json id thirst:add_loot_simple_dungeon_fr - error: Unknown registry key in ResourceKey[minecraft:root / forge:global_loot_modifier_serializers]: thirst:add_loot_table
+[02Apr2025 22:40:57.441] [main/WARN] [net.minecraftforge.common.loot.LootModifierManager/]: Could not decode GlobalLootModifier with json id thirst:add_loot_simple_dungeon_bc - error: Unknown registry key in ResourceKey[minecraft:root / forge:global_loot_modifier_serializers]: thirst:add_loot_table
+[02Apr2025 22:40:57.441] [main/WARN] [net.minecraftforge.common.loot.LootModifierManager/]: Could not decode GlobalLootModifier with json id thirst:add_loot_nether_bridge - error: Unknown registry key in ResourceKey[minecraft:root / forge:global_loot_modifier_serializers]: thirst:add_loot_table
+[02Apr2025 22:40:57.441] [main/WARN] [net.minecraftforge.common.loot.LootModifierManager/]: Could not decode GlobalLootModifier with json id thirst:add_loot_nether_bridge_fr - error: Unknown registry key in ResourceKey[minecraft:root / forge:global_loot_modifier_serializers]: thirst:add_loot_table
+[02Apr2025 22:40:57.441] [main/WARN] [net.minecraftforge.common.loot.LootModifierManager/]: Could not decode GlobalLootModifier with json id thirst:add_loot_nether_bridge_bc - error: Unknown registry key in ResourceKey[minecraft:root / forge:global_loot_modifier_serializers]: thirst:add_loot_table
+[02Apr2025 22:40:57.441] [main/WARN] [net.minecraftforge.common.loot.LootModifierManager/]: Could not decode GlobalLootModifier with json id thirst:add_loot_bastion_other - error: Unknown registry key in ResourceKey[minecraft:root / forge:global_loot_modifier_serializers]: thirst:add_loot_table
+[02Apr2025 22:40:57.441] [main/WARN] [net.minecraftforge.common.loot.LootModifierManager/]: Could not decode GlobalLootModifier with json id thirst:add_loot_bastion_other_fr - error: Unknown registry key in ResourceKey[minecraft:root / forge:global_loot_modifier_serializers]: thirst:add_loot_table
+[02Apr2025 22:40:57.441] [main/WARN] [net.minecraftforge.common.loot.LootModifierManager/]: Could not decode GlobalLootModifier with json id thirst:add_loot_bastion_other_bc - error: Unknown registry key in ResourceKey[minecraft:root / forge:global_loot_modifier_serializers]: thirst:add_loot_table
+[02Apr2025 22:40:57.450] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 11 curio slots
+[02Apr2025 22:40:57.456] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 1 curio entities
+[02Apr2025 22:41:01.068] [main/INFO] [com.ordana.immersive_weathering.ImmersiveWeathering/]: Loaded 78 block growths configurations
+[02Apr2025 22:41:01.073] [main/INFO] [com.ordana.immersive_weathering.ImmersiveWeathering/]: Loaded 14 liquid generators configurations
+[02Apr2025 22:41:01.335] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[02Apr2025 22:41:01.336] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[02Apr2025 22:41:01.336] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[02Apr2025 22:41:01.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[02Apr2025 22:41:01.563] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[02Apr2025 22:41:01.596] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[02Apr2025 22:41:01.691] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[02Apr2025 22:41:01.691] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[02Apr2025 22:41:01.692] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[02Apr2025 22:41:01.692] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[02Apr2025 22:41:02.043] [Server thread/INFO] [Framework/]: Loading server configs...
+[02Apr2025 22:41:02.366] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:overworld
+[02Apr2025 22:41:02.367] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:the_nether
+[02Apr2025 22:41:02.367] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[02Apr2025 22:41:12.752] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[02Apr2025 22:41:13.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[02Apr2025 22:41:15.695] [Netty Epoll Server IO #2/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[02Apr2025 22:41:16.223] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Apr2025 22:41:16.248] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Apr2025 22:41:16.255] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Apr2025 22:41:16.259] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Apr2025 22:41:16.268] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Apr2025 22:41:16.435] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Apr2025 22:41:16.660] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Apr2025 22:41:17.066] [Netty Epoll Server IO #3/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[02Apr2025 22:41:17.495] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Apr2025 22:41:17.664] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Apr2025 22:41:18.160] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 7%
+[02Apr2025 22:41:18.660] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 70%
+[02Apr2025 22:41:18.928] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 5268 ms
+[02Apr2025 22:41:18.928] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (17.222s)! For help, type "help"
+[02Apr2025 22:41:18.993] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[02Apr2025 22:41:18.993] [Server thread/INFO] [com.muhammedesadcomert.protectmobsfromdaylight.forge.ProtectMobsFromDayLight/]: HELLO from server starting
+[02Apr2025 22:41:56.406] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6ba5dd71[id=<null>,name=edinson123pro,properties={},legacy=false] (/100.76.109.16:58819) lost connection: Disconnected
+[02Apr2025 22:42:20.751] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5e0fb292[id=<null>,name=edinson123pro,properties={},legacy=false] (/100.76.109.16:58831) lost connection: Disconnected
+[02Apr2025 22:42:30.702] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
+[02Apr2025 22:42:30.806] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: edinson123pro[/100.76.109.16:58832] logged in with entity id 100 at (-164.7304841648644, 90.0, 368.30000001192093)
+[02Apr2025 22:42:30.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: edinson123pro joined the game
+[02Apr2025 22:42:34.698] [Server thread/INFO] [ping-wheel/]: Channel update: edinson123pro -> default
