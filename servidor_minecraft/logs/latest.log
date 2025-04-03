@@ -16,3 +16,6 @@
 [03Apr2025 00:07:18.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Applied effect Speed to edinson123pro
 [03Apr2025 00:09:33.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Applied 1.5 damage to edinson123pro
 [03Apr2025 00:10:32.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Applied 1.5 damage to edinson123pro
+[03Apr2025 00:19:52.666] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from edinson123pro: Location (-196.9186578243971, 72.52166557312012, 312.0) too far away from hit block BlockPos{x=-197, y=71, z=312}.
+[03Apr2025 00:19:52.666] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from edinson123pro: Location (-196.9186578243971, 72.52166557312012, 312.0) too far away from hit block BlockPos{x=-197, y=71, z=312}.
+[03Apr2025 00:29:04.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Applied effect Speed to edinson123pro

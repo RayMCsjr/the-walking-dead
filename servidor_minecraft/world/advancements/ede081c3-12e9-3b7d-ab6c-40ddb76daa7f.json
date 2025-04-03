@@ -5279,6 +5279,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-04-03 00:21:36 +0000"
+    },
+    "done": true
+  },
   "projectvibrantjourneys:recipes/misc/orange_dye_from_orange_bark_mushroom": {
     "criteria": {
       "has_orange_bark_mushroom": "2025-04-02 23:03:09 +0000"
