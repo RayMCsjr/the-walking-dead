@@ -252,3 +252,23 @@ Aceptación
 [03Apr2025 00:51:45.597] [Server thread/INFO] [ping-wheel/]: Channel update: edinson123pro -> default
 [03Apr2025 00:56:38.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Can't find element 'minecraf:speed' of type 'minecraft:mob_effect'
 [03Apr2025 01:05:42.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: edinson123pro was doomed to fall
+[03Apr2025 01:10:27.985] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: slayer_np[/100.121.90.55:58489] logged in with entity id 31048 at (-160.25986405178605, 81.0, 385.4425495892342)
+[03Apr2025 01:10:28.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: slayer_np joined the game
+[03Apr2025 01:10:31.220] [Server thread/INFO] [ping-wheel/]: Channel update: slayer_np -> default
+[03Apr2025 01:11:12.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Creative Mode]
+[03Apr2025 01:11:55.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Adventure Mode]
+[03Apr2025 01:12:14.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Survival Mode]
+[03Apr2025 01:12:38.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Applied effect Regeneration to 2 targets]
+[03Apr2025 01:12:40.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Applied effect Regeneration to 2 targets]
+[03Apr2025 01:12:42.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Applied effect Regeneration to 2 targets]
+[03Apr2025 01:13:23.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Creative Mode]
+[03Apr2025 01:13:34.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Survival Mode]
+[03Apr2025 01:13:40.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Creative Mode]
+[03Apr2025 01:13:51.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Survival Mode]
+[03Apr2025 01:14:05.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Creative Mode]
+[03Apr2025 01:14:11.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Survival Mode]
+[03Apr2025 01:14:20.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Creative Mode]
+[03Apr2025 01:15:40.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Survival Mode]
+[03Apr2025 01:19:02.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Creative Mode]
+[03Apr2025 01:19:02.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Survival Mode]
+[03Apr2025 01:19:26.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Creative Mode]
