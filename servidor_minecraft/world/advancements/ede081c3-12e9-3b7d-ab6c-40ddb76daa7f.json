@@ -1053,7 +1053,8 @@
   },
   "immersive_weathering:immersive_weathering/dirts": {
     "criteria": {
-      "dirt": "2025-04-02 02:26:02 +0000"
+      "dirt": "2025-04-02 02:26:02 +0000",
+      "silt": "2025-04-03 00:48:26 +0000"
     },
     "done": false
   },
@@ -5237,15 +5238,9 @@
     },
     "done": true
   },
-  "mekanism:chemical_tank": {
+  "minecraft:husbandry/plant_seed": {
     "criteria": {
-      "basic_chemical_tank": "2025-04-03 00:15:43 +0000"
-    },
-    "done": true
-  },
-  "projectvibrantjourneys:recipes/misc/brown_dye_from_light_brown_bark_mushroom": {
-    "criteria": {
-      "has_light_brown_bark_mushroom": "2025-04-02 23:04:06 +0000"
+      "wheat": "2025-04-02 23:01:58 +0000"
     },
     "done": true
   },
@@ -5255,39 +5250,21 @@
     },
     "done": true
   },
-  "create:mechanical_press": {
-    "criteria": {
-      "0": "2025-04-02 23:58:16 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/materials/brass_ingot_from_compacting": {
-    "criteria": {
-      "has_item": "2025-04-03 00:07:10 +0000"
-    },
-    "done": true
-  },
-  "create:compacting": {
-    "criteria": {
-      "0": "2025-04-03 00:04:02 +0000"
-    },
-    "done": true
-  },
-  "create:wrench_goggles": {
-    "criteria": {
-      "0": "2025-04-03 00:00:04 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/building_blocks/emerald_block": {
-    "criteria": {
-      "has_emerald": "2025-04-03 00:21:36 +0000"
-    },
-    "done": true
-  },
   "projectvibrantjourneys:recipes/misc/orange_dye_from_orange_bark_mushroom": {
     "criteria": {
       "has_orange_bark_mushroom": "2025-04-02 23:03:09 +0000"
+    },
+    "done": true
+  },
+  "projectvibrantjourneys:recipes/misc/brown_dye_from_light_brown_bark_mushroom": {
+    "criteria": {
+      "has_light_brown_bark_mushroom": "2025-04-02 23:04:06 +0000"
+    },
+    "done": true
+  },
+  "create:mechanical_press": {
+    "criteria": {
+      "0": "2025-04-02 23:58:16 +0000"
     },
     "done": true
   },
@@ -5297,9 +5274,45 @@
     },
     "done": true
   },
-  "minecraft:husbandry/plant_seed": {
+  "create:wrench_goggles": {
     "criteria": {
-      "wheat": "2025-04-02 23:01:58 +0000"
+      "0": "2025-04-03 00:00:04 +0000"
+    },
+    "done": false
+  },
+  "create:compacting": {
+    "criteria": {
+      "0": "2025-04-03 00:04:02 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/brass_ingot_from_compacting": {
+    "criteria": {
+      "has_item": "2025-04-03 00:07:10 +0000"
+    },
+    "done": true
+  },
+  "mekanism:chemical_tank": {
+    "criteria": {
+      "basic_chemical_tank": "2025-04-03 00:15:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-04-03 00:21:36 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/green_dye_from_lily_pad": {
+    "criteria": {
+      "has_lily_pad": "2025-04-03 00:31:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dripstone_block": {
+    "criteria": {
+      "has_pointed_dripstone": "2025-04-03 00:35:35 +0000"
     },
     "done": true
   },
