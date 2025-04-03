@@ -5237,6 +5237,12 @@
     },
     "done": true
   },
+  "mekanism:chemical_tank": {
+    "criteria": {
+      "basic_chemical_tank": "2025-04-03 00:15:43 +0000"
+    },
+    "done": true
+  },
   "projectvibrantjourneys:recipes/misc/brown_dye_from_light_brown_bark_mushroom": {
     "criteria": {
       "has_light_brown_bark_mushroom": "2025-04-02 23:04:06 +0000"
@@ -5249,9 +5255,39 @@
     },
     "done": true
   },
+  "create:mechanical_press": {
+    "criteria": {
+      "0": "2025-04-02 23:58:16 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/brass_ingot_from_compacting": {
+    "criteria": {
+      "has_item": "2025-04-03 00:07:10 +0000"
+    },
+    "done": true
+  },
+  "create:compacting": {
+    "criteria": {
+      "0": "2025-04-03 00:04:02 +0000"
+    },
+    "done": true
+  },
+  "create:wrench_goggles": {
+    "criteria": {
+      "0": "2025-04-03 00:00:04 +0000"
+    },
+    "done": false
+  },
   "projectvibrantjourneys:recipes/misc/orange_dye_from_orange_bark_mushroom": {
     "criteria": {
       "has_orange_bark_mushroom": "2025-04-02 23:03:09 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/curiosities/brown_toolbox": {
+    "criteria": {
+      "has_item": "2025-04-02 23:58:30 +0000"
     },
     "done": true
   },

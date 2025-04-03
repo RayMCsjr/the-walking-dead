@@ -8425,3 +8425,34 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [02Apr2025 23:57:03.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: An unexpected error occurred trying to execute that command
 [02Apr2025 23:58:16.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: edinson123pro has made the advancement [Bonk!]
 [02Apr2025 23:59:31.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Can't find element 'minecraf:speed' of type 'minecraft:mob_effect'
+[02Apr2025 23:59:43.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Can't find element 'minecraf:speed' of type 'minecraft:mob_effect'
+[02Apr2025 23:59:52.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Can't find element 'minecraf:speed' of type 'minecraft:mob_effect'
+[03Apr2025 00:00:29.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Applied effect Speed to edinson123pro
+[03Apr2025 00:01:18.999] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Apr2025 00:01:19.014] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Apr2025 00:01:26.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Applied effect Speed to edinson123pro
+[03Apr2025 00:01:52.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Applied effect Regeneration to edinson123pro
+[03Apr2025 00:02:01.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Applied effect Speed to edinson123pro
+[03Apr2025 00:02:02.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Applied effect Regeneration to edinson123pro
+[03Apr2025 00:03:16.175] [Server thread/DEBUG] [mixin/]: Mixing create.MixinGenericItemEmptying from thirst.mixin.json into com.simibubi.create.content.fluids.transfer.GenericItemEmptying
+[03Apr2025 00:03:16.179] [Server thread/DEBUG] [mixin/]: Mixing create.MixinGenericItemFilling from thirst.mixin.json into com.simibubi.create.content.fluids.transfer.GenericItemFilling
+[03Apr2025 00:03:34.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Applied effect Poison to edinson123pro
+[03Apr2025 00:03:46.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Applied effect Poison to edinson123pro
+[03Apr2025 00:03:52.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Applied effect Poison to edinson123pro
+[03Apr2025 00:04:08.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Applied effect Poison to edinson123pro
+[03Apr2025 00:04:14.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Applied effect Speed to edinson123pro
+[03Apr2025 00:04:42.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Applied 10.0 damage to edinson123pro
+[03Apr2025 00:04:48.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Applied 10.0 damage to edinson123pro
+[03Apr2025 00:04:57.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: edinson123pro died
+[03Apr2025 00:04:59.167] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1743638699167
+[03Apr2025 00:05:06.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Applied effect Poison to edinson123pro
+[03Apr2025 00:05:18.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Applied effect Regeneration to edinson123pro
+[03Apr2025 00:06:18.997] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Apr2025 00:06:19.012] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Apr2025 00:07:18.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Applied effect Speed to edinson123pro
+[03Apr2025 00:09:33.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Applied 1.5 damage to edinson123pro
+[03Apr2025 00:10:32.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Applied 1.5 damage to edinson123pro
+[03Apr2025 00:11:18.993] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Apr2025 00:11:19.009] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Apr2025 00:16:18.994] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Apr2025 00:16:19.008] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
